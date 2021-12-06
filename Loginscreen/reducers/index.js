@@ -7,6 +7,7 @@ import {bookingReducer} from '../reducers/Booging';
 import {userProfileReducer} from '../reducers/userProfile';
 import {completebookingReducer} from '../reducers/CompletedBooking';
 import {inprogressbookingReducer} from '../reducers/inprogressBooking';
+import { UserRegisterReducer } from './UserRegister';
 const persistConfig = {
   key: 'root',
   storage: AsyncStorage,
@@ -19,6 +20,7 @@ const appReducer = combineReducers({
   userProfileReducer: userProfileReducer,
   completebookingReducer: completebookingReducer,
   inprogressbookingReducer: inprogressbookingReducer,
+  UserRegisterReducer:UserRegisterReducer
 });
 
 const rootReducer = (state, action, type) => {

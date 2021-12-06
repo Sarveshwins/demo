@@ -5,6 +5,7 @@ import {watchBookingRequest} from './Booging';
 import {watchProfileRequest} from './userProfile';
 import {watchCBookingRequest} from './CompletedBooking';
 import {watchinBookingRequest} from './inprogressBooking';
+import {watchUserRegisterRequest} from './UserRegister';
 
 function* rootSaga() {
   yield all([
@@ -13,6 +14,7 @@ function* rootSaga() {
     watchProfileRequest(),
     watchCBookingRequest(),
     watchinBookingRequest(),
+    watchUserRegisterRequest(),
   ]);
 }
 

@@ -1,4 +1,4 @@
-import React, {useState, useEffect, useRef} from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import {
   StyleSheet,
   Text,
@@ -9,15 +9,16 @@ import {
   Image,
   TouchableOpacity,
 } from 'react-native';
-import {connect} from 'react-redux';
+import { connect } from 'react-redux';
 import validator from 'validator';
-import {bindActionCreators} from 'redux';
-import {attemptLoginActions} from '../actions/Login';
+import { bindActionCreators } from 'redux';
+import { attemptLoginActions } from '../actions/Login';
 import FastImage from 'react-native-fast-image';
 import AppBg from '../MainScreen/AppBg';
-import {AppStorage, key} from '../AsynStorage/asyncStorage';
+import { AppStorage, key } from '../AsynStorage/asyncStorage';
+import Otpscreen from './Otpscreen';
 
-const Home = ({navigation, attemptLogin, loginFetching}) => {
+const Home = ({ navigation, attemptLogin, loginFetching }) => {
   const iimage = require('../../assets/logo.png');
   const idea = require('../../assets/logo.png');
 
@@ -88,9 +89,9 @@ const Home = ({navigation, attemptLogin, loginFetching}) => {
   return (
     <SafeAreaView style={styles.inst}>
       <AppBg navigation={navigation} showHeader={false} loading={loginFetching}>
-        <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
+        <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
           <View>
-            <FastImage source={iimage} style={{width: 200, height: 200}} />
+            <FastImage source={iimage} style={{ width: 200, height: 200 }} />
           </View>
           <Text
             style={{
@@ -149,21 +150,21 @@ const Home = ({navigation, attemptLogin, loginFetching}) => {
               value={data.password === '' ? '' : data.password}
             />
 
-            {/* <FontAwesome5 name="eye-slash" size={15} color={'grey'} /> */}
+
+
+
           </View>
 
-          {/* <TouchableOpacity
-        onPress={() => {
-          navigation.navigate('Forgot');
-        }}
-        style={styles.flowfassword}>
-        <View style={{alignItems: 'flex-end'}}>
-          <Text style={{fontSize: 20, color: 'black'}}>Forgot Password</Text>
-        </View>
-      </TouchableOpacity> */}
+
+
           <TouchableOpacity onPress={() => onPress(data)} style={styles.flow}>
-            <Text style={{fontSize: 20, color: 'white'}}>login</Text>
+            <Text style={{ fontSize: 20, color: 'white' }}>login</Text>
           </TouchableOpacity>
+
+          <TouchableOpacity onPress={() => navigation.navigate('Otpscreen')} style={styles.flow}>
+            <Text style={{ fontSize: 20, color: 'white' }}>Sign up</Text>
+          </TouchableOpacity>
+
         </View>
       </AppBg>
     </SafeAreaView>
