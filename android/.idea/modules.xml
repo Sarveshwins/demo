@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CONTICO.iml" filepath="$PROJECT_DIR$/.idea/modules/CONTICO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CONTICO.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CONTICO.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1273951379/CONTICO.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1273951379/CONTICO.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1634349022/CONTICO.react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/-1634349022/CONTICO.react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/209179918/CONTICO.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/209179918/CONTICO.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1548510597/CONTICO.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/1548510597/CONTICO.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-630478425/CONTICO.react-native-masked-view_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-630478425/CONTICO.react-native-masked-view_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-24946610/CONTICO.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-24946610/CONTICO.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-190193161/CONTICO.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-190193161/CONTICO.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/107084495/CONTICO.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/107084495/CONTICO.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/801829594/CONTICO.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/801829594/CONTICO.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/193400200/CONTICO.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/193400200/CONTICO.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

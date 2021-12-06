@@ -1,0 +1,104 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.bloom_runner"
+4    android:versionCode="3"
+5    android:versionName="1.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Include required permissions for Google Maps API to run. -->
+12-->[:react-native-maps] /Users/dineshair/Documents/GitHub/Contico/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-81
+12-->[:react-native-maps] /Users/dineshair/Documents/GitHub/Contico/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-78
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.android.gms:play-services-maps:17.0.0] /Users/dineshair/.gradle/caches/transforms-3/a200cf77db3a5c88e1dfdbfa31b5050b/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+13-->[com.google.android.gms:play-services-maps:17.0.0] /Users/dineshair/.gradle/caches/transforms-3/a200cf77db3a5c88e1dfdbfa31b5050b/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+14
+15    <uses-feature
+15-->[com.google.android.gms:play-services-maps:17.0.0] /Users/dineshair/.gradle/caches/transforms-3/a200cf77db3a5c88e1dfdbfa31b5050b/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+16        android:glEsVersion="0x00020000"
+16-->[com.google.android.gms:play-services-maps:17.0.0] /Users/dineshair/.gradle/caches/transforms-3/a200cf77db3a5c88e1dfdbfa31b5050b/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+17        android:required="true" />
+17-->[com.google.android.gms:play-services-maps:17.0.0] /Users/dineshair/.gradle/caches/transforms-3/a200cf77db3a5c88e1dfdbfa31b5050b/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+18
+19    <application
+19-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:6:5-28:19
+20        android:name="com.bloom_runner.MainApplication"
+20-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:7:7-38
+21        android:allowBackup="false"
+21-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:11:7-34
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.1.0] /Users/dineshair/.gradle/caches/transforms-3/384a804ddf61add8f1298a3b8f500b71/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+23        android:icon="@mipmap/ic_launcher"
+23-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:9:7-41
+24        android:label="@string/app_name"
+24-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:8:7-39
+25        android:roundIcon="@mipmap/ic_launcher"
+25-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:10:7-46
+26        android:theme="@style/AppTheme"
+26-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:12:7-38
+27        android:usesCleartextTraffic="true" >
+27-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:13:9-44
+28        <activity
+28-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:16:7-27:18
+29            android:name="com.bloom_runner.MainActivity"
+29-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:17:9-37
+30            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+30-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:19:9-86
+31            android:label="@string/app_name"
+31-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:18:9-41
+32            android:launchMode="singleTask"
+32-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:20:9-40
+33            android:screenOrientation="portrait"
+33-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:21:11-47
+34            android:windowSoftInputMode="adjustResize" >
+34-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:22:9-51
+35            <intent-filter>
+35-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:23:9-26:25
+36                <action android:name="android.intent.action.MAIN" />
+36-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:24:13-65
+36-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:24:21-62
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:25:13-73
+38-->/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/AndroidManifest.xml:25:23-70
+39            </intent-filter>
+40        </activity>
+41
+42        <meta-data
+42-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/dineshair/.gradle/caches/transforms-3/c326ae7ed875f0a110fb52de9eb989f4/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:11:9-13:43
+43            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+43-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/dineshair/.gradle/caches/transforms-3/c326ae7ed875f0a110fb52de9eb989f4/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:12:13-84
+44            android:value="GlideModule" /> <!-- Needs to be explicitly declared on P+ -->
+44-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/dineshair/.gradle/caches/transforms-3/c326ae7ed875f0a110fb52de9eb989f4/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:13:13-40
+45        <uses-library
+45-->[com.google.android.gms:play-services-maps:17.0.0] /Users/dineshair/.gradle/caches/transforms-3/a200cf77db3a5c88e1dfdbfa31b5050b/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+46            android:name="org.apache.http.legacy"
+46-->[com.google.android.gms:play-services-maps:17.0.0] /Users/dineshair/.gradle/caches/transforms-3/a200cf77db3a5c88e1dfdbfa31b5050b/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+47            android:required="false" />
+47-->[com.google.android.gms:play-services-maps:17.0.0] /Users/dineshair/.gradle/caches/transforms-3/a200cf77db3a5c88e1dfdbfa31b5050b/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+48
+49        <activity
+49-->[com.google.android.gms:play-services-base:17.0.0] /Users/dineshair/.gradle/caches/transforms-3/c099f34bb597d03b4b670af755f47f98/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+50            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+50-->[com.google.android.gms:play-services-base:17.0.0] /Users/dineshair/.gradle/caches/transforms-3/c099f34bb597d03b4b670af755f47f98/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+51            android:exported="false"
+51-->[com.google.android.gms:play-services-base:17.0.0] /Users/dineshair/.gradle/caches/transforms-3/c099f34bb597d03b4b670af755f47f98/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+52            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+52-->[com.google.android.gms:play-services-base:17.0.0] /Users/dineshair/.gradle/caches/transforms-3/c099f34bb597d03b4b670af755f47f98/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+53
+54        <meta-data
+54-->[com.google.android.gms:play-services-basement:17.0.0] /Users/dineshair/.gradle/caches/transforms-3/d2aab5a9146bf1ef884137d70b855134/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+55            android:name="com.google.android.gms.version"
+55-->[com.google.android.gms:play-services-basement:17.0.0] /Users/dineshair/.gradle/caches/transforms-3/d2aab5a9146bf1ef884137d70b855134/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+56            android:value="@integer/google_play_services_version" />
+56-->[com.google.android.gms:play-services-basement:17.0.0] /Users/dineshair/.gradle/caches/transforms-3/d2aab5a9146bf1ef884137d70b855134/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+57    </application>
+58
+59</manifest>
