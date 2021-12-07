@@ -10,7 +10,7 @@ import { connect } from "react-redux";
 import { bindActionCreators } from "redux";
 import { attemptUserRegisterActions } from "../actions/UserRegister";
 
-const Otpscreen = ({ attemptUserRegister, UserRegisterData }) => {
+const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
   useEffect(() => {}, []);
 
   const [data, setData] = useState({
@@ -140,7 +140,7 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData }) => {
       </View>
 
       <TouchableOpacity
-        onPress={() =>
+        onPress={() => {
           attemptUserRegister({
             email: data.email, // "pradeep@shivam.com",
             password: data.password, // "12345678",
@@ -151,15 +151,15 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData }) => {
             company_name: data.company_name, // "Shivam",
 
             extraData: async (loginRespo) => {
-              console.log("loginRespo", loginRespo);
+              console.log("loginResposss", loginRespo);
               //   AppStorage.saveKey(
               //     key.SAVE_CLIENT_ID,
               //     JSON.stringify(loginRespo?.user_id),
               //   );
-              //   navigation.navigate('LoginFF');
             },
-          })
-        }
+          });
+          navigation.navigate("OtpPassword");
+        }}
         style={styles.flow}
       >
         <Text style={{ fontSize: 20, color: "white" }}>Submit</Text>
