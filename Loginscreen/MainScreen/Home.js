@@ -161,7 +161,8 @@ const Home = ({ navigation, attemptLogin, loginFetching }) => {
             <Text style={{ fontSize: 20, color: 'white' }}>login</Text>
           </TouchableOpacity>
 
-          <TouchableOpacity onPress={() => navigation.navigate('Otpscreen')} style={styles.flow}>
+          <TouchableOpacity onPress={() => onPress ()} style={styles.flow}> 
+          {/* navigation.navigate('Otpscreen') */}
             <Text style={{ fontSize: 20, color: 'white' }}>Sign up</Text>
           </TouchableOpacity>
 

@@ -29,7 +29,17 @@ const Otpscreen = ({attemptUserRegister ,UserRegisterData}) => {
     }, [])
     console.log("dataalert",UserRegisterData)
     return (
-        <View style={{flex:1,justifyContent:"center"}}>
+        <View style={{flex:1,}}>
+            <Text
+            style={{
+              color: '#3d7490',
+              fontWeight: 'bold',
+              marginTop: 40,
+              fontSize: 30,
+              textAlign:"center"
+            }}>
+            Sign Up
+          </Text>
             <View
                 style={styles.gat}>
                 <TextInput
