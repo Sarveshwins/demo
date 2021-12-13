@@ -131,6 +131,7 @@
     <orderEntry type="library" name="Gradle: artifacts:react-native-reanimated:unspecified" level="project" />
     <orderEntry type="module" module-name="CONTICO.react-native-screens" />
     <orderEntry type="module" module-name="CONTICO.react-native-async-storage_async-storage" />
+    <orderEntry type="module" module-name="CONTICO.react-native-community_clipboard" />
     <orderEntry type="module" module-name="CONTICO.react-native-masked-view_masked-view" />
     <orderEntry type="module" module-name="CONTICO.react-native-fast-image" />
     <orderEntry type="module" module-name="CONTICO.react-native-gesture-handler" />

@@ -9,6 +9,8 @@ import {
 import { connect } from "react-redux";
 import { bindActionCreators } from "redux";
 import { attemptUserRegisterActions } from "../actions/UserRegister";
+import { AppStorage, key } from "../AsynStorage/asyncStorage";
+import validator from "validator";
 
 const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
   useEffect(() => {}, []);
@@ -23,12 +25,69 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
     company_name: "", // "Shivam",
   });
   console.log("dataalert", UserRegisterData);
+
+  const Validate = () => {
+    if (!data.email.trim()) {
+      alert("Please enter your email");
+
+      return;
+    } else if (!data.password.trim()) {
+      alert("Please enter your password");
+      return;
+    } else if (!data.first_name.trim()) {
+      alert("Please Enter first name");
+
+      return;
+    } else if (!data.last_name.trim()) {
+      alert("Please Enter last name");
+
+      return;
+    } else if (!data.phone.trim()) {
+      alert("Please Enter phone number");
+
+      return;
+    } else if (!data.country_code.trim()) {
+      alert("Please Enter country code");
+
+      return;
+    } else if (!data.company_name.trim()) {
+      alert("Please Enter company nae");
+
+      return;
+    } else if (!validator.isEmail(data.email)) {
+      alert("Invalid email format");
+
+      return;
+    } else {
+      attemptUserRegister({
+        email: data.email, // "pradeep@shivam.com",
+        password: data.password, // "12345678",
+        first_name: data.first_name, // "Pradeep",
+        last_name: data.last_name, // "Kumar",
+        phone: data.phone, // "9431140126",
+        country_code: data.country_code, // "+91",
+        company_name: data.company_name, // "Shivam",
+
+        extraData: async (loginRespo) => {
+          console.log("loginResposss", loginRespo?.data?.user_id);
+          AppStorage.saveKey(
+            key.SAVE_CLIENT_ID___,
+            JSON.stringify(loginRespo?.data?.user_id)
+          );
+          if (loginRespo) {
+            navigation.navigate("OtpPassword");
+          }
+        },
+      });
+    }
+  };
   return (
     <View style={{ flex: 1, justifyContent: "center" }}>
       <View style={styles.gat}>
         <TextInput
           style={{
             flex: 1,
+            color: "black",
           }}
           // onSubmitEditing={submitHandler}
           //   textContentType="emailAddress"
@@ -45,6 +104,7 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
               first_name: val,
             })
           }
+          placeholderTextColor={"black"}
         />
       </View>
 
@@ -52,6 +112,7 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
         <TextInput
           style={{
             flex: 1,
+            color: "black",
           }}
           placeholder=" Last-name"
           defaultValue={data.last_name}
@@ -61,12 +122,14 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
               last_name: val,
             })
           }
+          placeholderTextColor={"black"}
         />
       </View>
       <View style={styles.gat}>
         <TextInput
           style={{
             flex: 1,
+            color: "black",
           }}
           placeholder=" Company-name"
           defaultValue={data.company_name}
@@ -76,12 +139,14 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
               company_name: val,
             })
           }
+          placeholderTextColor={"black"}
         />
       </View>
       <View style={styles.gat}>
         <TextInput
           style={{
             flex: 1,
+            color: "black",
           }}
           placeholder="Phone"
           defaultValue={data.phone}
@@ -91,12 +156,14 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
               phone: val,
             })
           }
+          placeholderTextColor={"black"}
         />
       </View>
       <View style={styles.gat}>
         <TextInput
           style={{
             flex: 1,
+            color: "black",
           }}
           placeholder="Country-code"
           defaultValue={data.country_code}
@@ -106,12 +173,14 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
               country_code: val,
             })
           }
+          placeholderTextColor={"black"}
         />
       </View>
       <View style={styles.gat}>
         <TextInput
           style={{
             flex: 1,
+            color: "black",
           }}
           placeholder="Email"
           defaultValue={data.email}
@@ -121,12 +190,14 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
               email: val,
             })
           }
+          placeholderTextColor={"black"}
         />
       </View>
       <View style={styles.gat}>
         <TextInput
           style={{
             flex: 1,
+            color: "black",
           }}
           placeholder="Password"
           defaultValue={data.password}
@@ -136,29 +207,13 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
               password: val,
             })
           }
+          placeholderTextColor={"black"}
         />
       </View>
 
       <TouchableOpacity
         onPress={() => {
-          attemptUserRegister({
-            email: data.email, // "pradeep@shivam.com",
-            password: data.password, // "12345678",
-            first_name: data.first_name, // "Pradeep",
-            last_name: data.last_name, // "Kumar",
-            phone: data.phone, // "9431140126",
-            country_code: data.country_code, // "+91",
-            company_name: data.company_name, // "Shivam",
-
-            extraData: async (loginRespo) => {
-              console.log("loginResposss", loginRespo);
-              //   AppStorage.saveKey(
-              //     key.SAVE_CLIENT_ID,
-              //     JSON.stringify(loginRespo?.user_id),
-              //   );
-            },
-          });
-          navigation.navigate("OtpPassword");
+          Validate();
         }}
         style={styles.flow}
       >

@@ -9,6 +9,7 @@ import Splashscreen from "../TabsScreen/Splashscreen";
 import Newpass from "../TabsScreen/Newpass";
 import Otpscreen from "./Otpscreen";
 import OtpPassword from "./OtpPassword";
+import DetailedScreen from "./DetailedScreen";
 
 const Logo = ({ text }) => {
   const pic = require("../../assets/logo.png");
@@ -40,6 +41,7 @@ const FirstScreen = () => {
       <Stack.Screen component={Forgot} name="Forgot" />
       <Stack.Screen component={Otpscreen} name="Otpscreen" />
       <Stack.Screen component={OtpPassword} name="OtpPassword" />
+      <Stack.Screen component={DetailedScreen} name="DetailedScreen" />
     </Stack.Navigator>
   );
 };

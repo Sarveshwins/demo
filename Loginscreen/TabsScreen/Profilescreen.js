@@ -52,7 +52,7 @@ const Profilescreen = ({
         console.log("booking", loginRespo);
       },
     });
-  }, []);
+  }, [selectedIndex]);
   useEffect(async () => {
     const client_Id = await AppStorage.getClientId();
     console.log("client id here under console1", client_Id);
@@ -66,7 +66,7 @@ const Profilescreen = ({
       setFilteredDataSource(CbookingData);
       setMasterDataSource(CbookingData);
     }
-  }, []);
+  }, [selectedIndex]);
 
   const searchFilterFunction = (text) => {
     // getVcareList({
@@ -98,7 +98,7 @@ const Profilescreen = ({
       setSearch(text);
     }
   };
-  console.log("bookingData", filteredDataSource);
+  console.log("bookingData", CbookingData);
   return (
     <View style={{ flex: 1, justifyContent: "center" }}>
       <AppBg
@@ -122,7 +122,7 @@ const Profilescreen = ({
             onChangeText={(text) => {
               SearchFilteredData(text);
             }}
-            placeholderTextColor={"grey"}
+            placeholderTextColor={"black"}
             //value={search}
           />
         </View>
@@ -233,6 +233,7 @@ const Profilescreen = ({
             <Completed
               filteredDataSource={filteredDataSource}
               CbookingFetching={CbookingFetching}
+              navigation={navigation}
             />
           )}
         </View>

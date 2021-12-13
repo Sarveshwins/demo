@@ -54,7 +54,11 @@ const Completed = ({ filteredDataSource, navigation, CbookingFetching }) => {
                     </Text>
                   </View>
                   <View style={styles.butonView}>
-                    <TouchableOpacity>
+                    <TouchableOpacity
+                      onPress={() =>
+                        navigation.navigate("DetailedScreen", { item: item })
+                      }
+                    >
                       <Text style={styles.payNow}>View Details</Text>
                     </TouchableOpacity>
                   </View>

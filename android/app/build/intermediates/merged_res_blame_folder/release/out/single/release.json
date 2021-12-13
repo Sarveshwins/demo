@@ -1,138 +1,138 @@
 [
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_dashboard.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-mdpi/assets_dashboard.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_booking.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-mdpi/assets_booking.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_booking.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-mdpi/assets_booking.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_dashboard.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-mdpi/assets_dashboard.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_logo.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-mdpi/assets_logo.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_logo.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-mdpi/assets_logo.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_user.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-mdpi/assets_user.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_user.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-mdpi/assets_user.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_header.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-mdpi/assets_header.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_logout.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-mdpi/assets_logout.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_logout.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-mdpi/assets_logout.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_header.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-mdpi/assets_header.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backiconmask.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     }
 ]

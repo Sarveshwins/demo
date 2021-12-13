@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/dineshair/Documents/GitHub/Contico/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/dineshair/.gradle/caches/transforms-3/2b33f08a78071dc79c67b5b0c82c3366/transformed/appcompat-1.1.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "source": "/Users/dinesh/.gradle/caches/transforms-3/2b33f08a78071dc79c67b5b0c82c3366/transformed/appcompat-1.1.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/dineshair/.gradle/caches/transforms-3/d9a3ea39a981c7afa2f0112a00415ec8/transformed/material-1.1.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "source": "/Users/dinesh/.gradle/caches/transforms-3/d9a3ea39a981c7afa2f0112a00415ec8/transformed/material-1.1.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
