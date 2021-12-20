@@ -31,8 +31,8 @@ const Home = ({ navigation, attemptLogin, loginFetching }) => {
     console.log("PAYLOAD", getData.username, getData.password);
 
     attemptLogin({
-      email: getData.username, //"pramod@softoasistech.com",
-      password: getData.password, //"ssp@2020",
+      email: "pramod@softoasistech.com", //getData.username,
+      password: "ssp@2020", //getData.password,
 
       extraData: async (loginRespo) => {
         console.log("loginRespo", loginRespo?.user_id);
@@ -120,6 +120,7 @@ const Home = ({ navigation, attemptLogin, loginFetching }) => {
             <TextInput
               style={{
                 flex: 1,
+                color: "black",
               }}
               // onSubmitEditing={submitHandler}
               textContentType="emailAddress"
@@ -129,6 +130,7 @@ const Home = ({ navigation, attemptLogin, loginFetching }) => {
               onChangeText={(val) => handleUsenameChange(val)}
               keyboardType={"email-address"}
               value={data.username === "" ? "" : data.username}
+              placeholderTextColor={"#6D6D6D"}
             />
           </View>
           <View
@@ -147,9 +149,11 @@ const Home = ({ navigation, attemptLogin, loginFetching }) => {
             <TextInput
               style={{
                 flex: 1,
+                color: "black",
               }}
               placeholder=" Password"
               secureTextEntry
+              placeholderTextColor={"#6D6D6D"}
               onChangeText={(val) => handlePasswordChange(val)}
               autoCapitalize={"none"}
               value={data.password === "" ? "" : data.password}

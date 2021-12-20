@@ -1,12 +1,22 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { StyleSheet, Text, View } from "react-native";
+import { connect } from "react-redux";
+import { bindActionCreators } from "redux";
+import { attemptBookingDetailsActions } from "../actions/BookinDetails";
 
-const DetailedScreen = ({ route }) => {
+const DetailedScreen = ({ route, attemptBookingDetails }) => {
   const { item } = route.params;
-  console.log("items", item);
-
+  console.log("items", item?.BOOKING_ID);
+  useEffect(() => {
+    attemptBookingDetails({
+      booking_id: item?.BOOKING_ID,
+    });
+  }, []);
   return (
     <View style={styles.mainContainer}>
+      <Text style={{ fontWeight: "bold", fontSize: 20, marginBottom: 10 }}>
+        Registration
+      </Text>
       <View style={styles.secondaryView}>
         <Text style={styles.textStyle}>BOOKING ID1 : {item.BOOKING_ID}</Text>
         <Text style={styles.textStyle}>
@@ -22,7 +32,19 @@ const DetailedScreen = ({ route }) => {
   );
 };
 
-export default DetailedScreen;
+// export default DetailedScreen;
+
+const mapStateToProps = function (state) {
+  return {
+    ...state.bookingDetailsReducer,
+  };
+};
+export default connect(mapStateToProps, (dispatch) => ({
+  attemptBookingDetails: bindActionCreators(
+    attemptBookingDetailsActions.start,
+    dispatch
+  ),
+}))(DetailedScreen);
 
 const styles = StyleSheet.create({
   mainContainer: {

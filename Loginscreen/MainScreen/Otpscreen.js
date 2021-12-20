@@ -104,7 +104,7 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
               first_name: val,
             })
           }
-          placeholderTextColor={"black"}
+          placeholderTextColor={"#6D6D6D"}
         />
       </View>
 
@@ -122,7 +122,7 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
               last_name: val,
             })
           }
-          placeholderTextColor={"black"}
+          placeholderTextColor={"#6D6D6D"}
         />
       </View>
       <View style={styles.gat}>
@@ -139,7 +139,7 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
               company_name: val,
             })
           }
-          placeholderTextColor={"black"}
+          placeholderTextColor={"#6D6D6D"}
         />
       </View>
       <View style={styles.gat}>
@@ -156,7 +156,7 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
               phone: val,
             })
           }
-          placeholderTextColor={"black"}
+          placeholderTextColor={"#6D6D6D"}
         />
       </View>
       <View style={styles.gat}>
@@ -173,7 +173,7 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
               country_code: val,
             })
           }
-          placeholderTextColor={"black"}
+          placeholderTextColor={"#6D6D6D"}
         />
       </View>
       <View style={styles.gat}>
@@ -190,7 +190,7 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
               email: val,
             })
           }
-          placeholderTextColor={"black"}
+          placeholderTextColor={"#6D6D6D"}
         />
       </View>
       <View style={styles.gat}>
@@ -207,7 +207,7 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
               password: val,
             })
           }
-          placeholderTextColor={"black"}
+          placeholderTextColor={"#6D6D6D"}
         />
       </View>
 
