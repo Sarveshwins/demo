@@ -44,7 +44,7 @@ const AppStorage = {
   },
   async getClientId__() {
     try {
-      let response = await AsyncStorage.getItem(key.SAVE_CLIENT_ID);
+      let response = await AsyncStorage.getItem(key.SAVE_CLIENT_ID___);
       let responseParsed = JSON.parse(response);
       return responseParsed;
     } catch (error) {}

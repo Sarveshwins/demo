@@ -82,7 +82,9 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
     }
   };
   return (
-    <View style={{ flex: 1, justifyContent: "center" }}>
+    <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
+      <Text style={{ fontSize: 20, color: "#3d7490" }}>Sign up</Text>
+
       <View style={styles.gat}>
         <TextInput
           style={{
@@ -142,23 +144,7 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
           placeholderTextColor={"#6D6D6D"}
         />
       </View>
-      <View style={styles.gat}>
-        <TextInput
-          style={{
-            flex: 1,
-            color: "black",
-          }}
-          placeholder="Phone"
-          defaultValue={data.phone}
-          onChangeText={(val) =>
-            setData({
-              ...data,
-              phone: val,
-            })
-          }
-          placeholderTextColor={"#6D6D6D"}
-        />
-      </View>
+
       <View style={styles.gat}>
         <TextInput
           style={{
@@ -171,6 +157,23 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
             setData({
               ...data,
               country_code: val,
+            })
+          }
+          placeholderTextColor={"#6D6D6D"}
+        />
+      </View>
+      <View style={styles.gat}>
+        <TextInput
+          style={{
+            flex: 1,
+            color: "black",
+          }}
+          placeholder="Phone"
+          defaultValue={data.phone}
+          onChangeText={(val) =>
+            setData({
+              ...data,
+              phone: val,
             })
           }
           placeholderTextColor={"#6D6D6D"}
@@ -259,5 +262,18 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     height: 40,
     alignSelf: "center",
+  },
+  flow: {
+    // flex:1,
+    // justifyContent:'center',
+
+    backgroundColor: "#3d7490",
+    justifyContent: "center",
+    alignItems: "center",
+    marginTop: 20,
+    width: "80%",
+    fontSize: 40,
+    borderRadius: 20,
+    height: 40,
   },
 });
