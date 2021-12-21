@@ -12,6 +12,10 @@
         "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-mdpi_loginscreen_assets_search.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-mdpi/loginscreen_assets_search.png"
+    },
+    {
         "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
         "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
     },
@@ -48,8 +52,16 @@
         "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
     },
     {
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_loginscreen_assets_search.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-xxhdpi/loginscreen_assets_search.png"
+    },
+    {
         "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "/Users/dinesh/Documents/GitHub/demo/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/drawable-xhdpi_loginscreen_assets_search.png.flat",
+        "source": "/Users/dinesh/Documents/GitHub/demo/android/app/build/generated/res/react/release/drawable-xhdpi/loginscreen_assets_search.png"
     },
     {
         "merged": "/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
