@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { StyleSheet, Text, View } from "react-native";
+import { StyleSheet, Text, View, Image } from "react-native";
 import { connect } from "react-redux";
 import { bindActionCreators } from "redux";
 import { attemptBookingDetailsActions } from "../actions/BookinDetails";
@@ -14,8 +14,14 @@ const DetailedScreen = ({ route, attemptBookingDetails }) => {
   }, []);
   return (
     <View style={styles.mainContainer}>
+      {/* <View style={{ height: 30, width: "100%" }}>
+        <Image
+          // style={{ height: 30, width: "50%" }}
+          source={require("../../assets/header.png")}
+        />
+      </View> */}
       <Text style={{ fontWeight: "bold", fontSize: 20, marginBottom: 10 }}>
-        Registration
+        Details
       </Text>
       <View style={styles.secondaryView}>
         <Text style={styles.textStyle}>BOOKING ID1 : {item.BOOKING_ID}</Text>

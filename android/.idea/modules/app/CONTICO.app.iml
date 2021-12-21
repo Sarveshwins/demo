@@ -130,6 +130,7 @@
     <orderEntry type="library" name="Gradle: org.webkit:android-jsc:r250230@aar" level="project" />
     <orderEntry type="library" name="Gradle: artifacts:react-native-reanimated:unspecified" level="project" />
     <orderEntry type="module" module-name="CONTICO.react-native-screens" />
+    <orderEntry type="module" module-name="CONTICO.react-native-vector-icons" />
     <orderEntry type="module" module-name="CONTICO.react-native-async-storage_async-storage" />
     <orderEntry type="module" module-name="CONTICO.react-native-community_clipboard" />
     <orderEntry type="module" module-name="CONTICO.react-native-masked-view_masked-view" />
@@ -138,6 +139,5 @@
     <orderEntry type="module" module-name="CONTICO.react-native-maps" />
     <orderEntry type="module" module-name="CONTICO.react-native-safe-area-context" />
     <orderEntry type="module" module-name="CONTICO.react-native-splash-screen" />
-    <orderEntry type="module" module-name="CONTICO.react-native-vector-icons" />
   </component>
 </module>

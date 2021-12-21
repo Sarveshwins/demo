@@ -8,6 +8,7 @@ MERGED from /Users/dinesh/Documents/GitHub/demo/android/app/src/main/AndroidMani
 MERGED from [com.facebook.flipper:flipper:0.93.0] /Users/dinesh/.gradle/caches/transforms-3/8cf55bdce16a002612f05f30a64a017a/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:8:1-18:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.93.0] /Users/dinesh/.gradle/caches/transforms-3/6ac5e08a3d747ccd42a04f95db527b1e/transformed/jetified-flipper-network-plugin-0.93.0/AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.93.0] /Users/dinesh/.gradle/caches/transforms-3/594e574e0e6998dd29b825080f234440/transformed/jetified-flipper-fresco-plugin-0.93.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-vector-icons] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-async-storage_async-storage] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-community_clipboard] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-community/clipboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-masked-view_masked-view] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-masked-view/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
@@ -17,7 +18,6 @@ MERGED from [:react-native-maps] /Users/dinesh/Documents/GitHub/demo/node_module
 MERGED from [:react-native-safe-area-context] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-splash-screen] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
-MERGED from [:react-native-vector-icons] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-native:0.65.1] /Users/dinesh/.gradle/caches/transforms-3/7cdf8de9c37004713d4017747f452054/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dinesh/.gradle/caches/transforms-3/13fd9b66b2f17faf01d7b58e404cc03f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r250230] /Users/dinesh/.gradle/caches/transforms-3/2dd430581997c82f8fcb8ae144aabe30/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
@@ -206,6 +206,8 @@ MERGED from [com.facebook.flipper:flipper-network-plugin:0.93.0] /Users/dinesh/.
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.93.0] /Users/dinesh/.gradle/caches/transforms-3/6ac5e08a3d747ccd42a04f95db527b1e/transformed/jetified-flipper-network-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.93.0] /Users/dinesh/.gradle/caches/transforms-3/594e574e0e6998dd29b825080f234440/transformed/jetified-flipper-fresco-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.93.0] /Users/dinesh/.gradle/caches/transforms-3/594e574e0e6998dd29b825080f234440/transformed/jetified-flipper-fresco-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-vector-icons] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-async-storage_async-storage] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-async-storage_async-storage] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_clipboard] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-community/clipboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
@@ -224,8 +226,6 @@ MERGED from [:react-native-screens] /Users/dinesh/Documents/GitHub/demo/node_mod
 MERGED from [:react-native-screens] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-splash-screen] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-splash-screen] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.65.1] /Users/dinesh/.gradle/caches/transforms-3/7cdf8de9c37004713d4017747f452054/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.65.1] /Users/dinesh/.gradle/caches/transforms-3/7cdf8de9c37004713d4017747f452054/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dinesh/.gradle/caches/transforms-3/13fd9b66b2f17faf01d7b58e404cc03f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44

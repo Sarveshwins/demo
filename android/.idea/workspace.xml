@@ -23,17 +23,783 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3843ffe-a39d-482e-9824-238420318ed8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Loginscreen/MainScreen/Otpscreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Loginscreen/MainScreen/Otpscreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loginscreen/TabsScreen/Profilescreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Loginscreen/TabsScreen/Profilescreen.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.9/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.9/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.9/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.9/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.9/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.9/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.9/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.9/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.9/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.9/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.9/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.9/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.9/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.9/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.9/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/504426021/CONTICO.react-native-screens.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/504426021/CONTICO.react-native-screens.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/CONTICO.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/CONTICO.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/bloom_runner/MainApplication$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/bloom_runner/MainApplication$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/bloom_runner/MainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/bloom_runner/MainApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/79046c66c2cc228deb2f997a150769773d94d5d7ffb68644bf31efde8c53c8f0_0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/79046c66c2cc228deb2f997a150769773d94d5d7ffb68644bf31efde8c53c8f0_1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/79046c66c2cc228deb2f997a150769773d94d5d7ffb68644bf31efde8c53c8f0_2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/79046c66c2cc228deb2f997a150769773d94d5d7ffb68644bf31efde8c53c8f0_3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/bloom_runner/MainApplication$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/bloom_runner/MainApplication$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/bloom_runner/MainApplication.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/bloom_runner/MainApplication.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/bloom_runner/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/bloom_runner/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Local Podspecs/RNVectorIcons.podspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Local Podspecs/RNVectorIcons.podspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Manifest.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Manifest.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/.transforms/77a0f20e6617ca0beedf35a2bd8fe383/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/.transforms/77a0f20e6617ca0beedf35a2bd8fe383/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/.transforms/8c145fb52a42282dad2a9229695ac252/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/.transforms/8c145fb52a42282dad2a9229695ac252/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/generated/source/buildConfig/release/com/reactnativecommunity/asyncstorage/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/aar_metadata/release/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/compile_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/compile_r_class_jar/release/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/compile_symbol_list/release/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/incremental/packageReleaseAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/incremental/packageReleaseResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/javac/release/classes/com/reactnativecommunity/asyncstorage/AsyncLocalStorageUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/javac/release/classes/com/reactnativecommunity/asyncstorage/AsyncStorageErrorUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/javac/release/classes/com/reactnativecommunity/asyncstorage/AsyncStorageExpoMigration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/javac/release/classes/com/reactnativecommunity/asyncstorage/AsyncStorageModule$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/javac/release/classes/com/reactnativecommunity/asyncstorage/AsyncStorageModule$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/javac/release/classes/com/reactnativecommunity/asyncstorage/AsyncStorageModule$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/javac/release/classes/com/reactnativecommunity/asyncstorage/AsyncStorageModule$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/javac/release/classes/com/reactnativecommunity/asyncstorage/AsyncStorageModule$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/javac/release/classes/com/reactnativecommunity/asyncstorage/AsyncStorageModule$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/javac/release/classes/com/reactnativecommunity/asyncstorage/AsyncStorageModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/javac/release/classes/com/reactnativecommunity/asyncstorage/AsyncStoragePackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/javac/release/classes/com/reactnativecommunity/asyncstorage/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/javac/release/classes/com/reactnativecommunity/asyncstorage/ReactDatabaseSupplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/javac/release/classes/com/reactnativecommunity/asyncstorage/SerialExecutor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/javac/release/classes/com/reactnativecommunity/asyncstorage/SerialExecutor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/local_only_symbol_list/release/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/navigation_json/release/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/packaged_manifests/release/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/runtime_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/build/tmp/compileReleaseJavaWithJavac/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/.transforms/4920ace164fbd0b60307f2b57c5c76b3/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/.transforms/4920ace164fbd0b60307f2b57c5c76b3/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/.transforms/8086677daee29f9f4ae1ce77ad60cdce/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/.transforms/8086677daee29f9f4ae1ce77ad60cdce/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/generated/source/buildConfig/release/com/reactnativecommunity/clipboard/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/aar_metadata/release/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/compile_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/compile_r_class_jar/release/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/compile_symbol_list/release/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/incremental/packageReleaseAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/incremental/packageReleaseResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/javac/release/classes/com/reactnativecommunity/clipboard/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/javac/release/classes/com/reactnativecommunity/clipboard/ClipboardModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/javac/release/classes/com/reactnativecommunity/clipboard/ClipboardPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/local_only_symbol_list/release/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/merged_manifest/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/navigation_json/release/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/packaged_manifests/release/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/runtime_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/build/tmp/compileReleaseJavaWithJavac/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/.transforms/17ed6916f0986603c05aa95bd1e11009/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/.transforms/17ed6916f0986603c05aa95bd1e11009/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/.transforms/383f7a8d49ec85b44ff2e15c2c812b73/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/.transforms/383f7a8d49ec85b44ff2e15c2c812b73/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/generated/source/buildConfig/release/org/reactnative/maskedview/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/aar_metadata/release/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/compile_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/compile_r_class_jar/release/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/compile_symbol_list/release/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/incremental/packageReleaseAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/incremental/packageReleaseResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/javac/release/classes/org/reactnative/maskedview/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/javac/release/classes/org/reactnative/maskedview/RNCMaskedView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/javac/release/classes/org/reactnative/maskedview/RNCMaskedViewManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/javac/release/classes/org/reactnative/maskedview/RNCMaskedViewPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/local_only_symbol_list/release/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/merged_manifest/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/navigation_json/release/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/packaged_manifests/release/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/runtime_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android/build/tmp/compileReleaseJavaWithJavac/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/.transforms/bfb5c500cf518494479c334f5bdd50c1/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/.transforms/bfb5c500cf518494479c334f5bdd50c1/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/.transforms/fb63f744f6efb35b5d48314b7cbc73c2/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/.transforms/fb63f744f6efb35b5d48314b7cbc73c2/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/generated/ap_generated_sources/release/out/com/bumptech/glide/GeneratedAppGlideModuleImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/generated/ap_generated_sources/release/out/com/bumptech/glide/GeneratedRequestManagerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/generated/ap_generated_sources/release/out/com/bumptech/glide/annotation/compiler/GlideIndexer_GlideModule_com_dylanvann_fastimage_FastImageOkHttpProgressGlideModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/generated/ap_generated_sources/release/out/com/dylanvann/fastimage/GlideApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/generated/ap_generated_sources/release/out/com/dylanvann/fastimage/GlideOptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/generated/ap_generated_sources/release/out/com/dylanvann/fastimage/GlideRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/generated/ap_generated_sources/release/out/com/dylanvann/fastimage/GlideRequests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/generated/source/buildConfig/release/com/dylanvann/fastimage/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/aar_metadata/release/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/compile_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/compile_r_class_jar/release/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/compile_symbol_list/release/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/incremental/packageReleaseAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/incremental/packageReleaseResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/bumptech/glide/GeneratedAppGlideModuleImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/bumptech/glide/GeneratedRequestManagerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/bumptech/glide/annotation/compiler/GlideIndexer_GlideModule_com_dylanvann_fastimage_FastImageOkHttpProgressGlideModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageCacheControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageGlideModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageOkHttpProgressGlideModule$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageOkHttpProgressGlideModule$DispatchingProgressListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageOkHttpProgressGlideModule$OkHttpProgressResponseBody$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageOkHttpProgressGlideModule$OkHttpProgressResponseBody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageOkHttpProgressGlideModule$ResponseProgressListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageOkHttpProgressGlideModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageProgressListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageRequestListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageViewConverter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageViewConverter$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageViewConverter$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageViewConverter$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageViewConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageViewManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageViewModule$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageViewModule$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageViewModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageViewPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/FastImageViewWithUrl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/GlideApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/GlideOptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/GlideRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/javac/release/classes/com/dylanvann/fastimage/GlideRequests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/local_only_symbol_list/release/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/navigation_json/release/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/packaged_manifests/release/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/runtime_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/build/tmp/compileReleaseJavaWithJavac/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/.transforms/23f3cdb3d30eae01b1a418dda163523f/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/.transforms/23f3cdb3d30eae01b1a418dda163523f/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/.transforms/7925ac5f26fd5c35157767646861a524/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/.transforms/7925ac5f26fd5c35157767646861a524/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/generated/source/buildConfig/release/com/swmansion/gesturehandler/react/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/aar_metadata/release/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/compile_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/compile_r_class_jar/release/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/compile_symbol_list/release/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/incremental/packageReleaseAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/incremental/packageReleaseResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/facebook/react/views/modal/RNGHModalUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/BaseGestureHandlerInteractionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/FlingGestureHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/FlingGestureHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/GestureHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/GestureHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/GestureHandlerInteractionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/GestureHandlerOrchestrator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/GestureHandlerOrchestrator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/GestureHandlerRegistry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/GestureHandlerRegistryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/GestureUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/LongPressGestureHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/LongPressGestureHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/NativeViewGestureHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/OnTouchEventListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/PanGestureHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/PinchGestureHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/PinchGestureHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/PointerEventsConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/RotationGestureDetector$OnRotationGestureListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/RotationGestureDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/RotationGestureHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/RotationGestureHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/TapGestureHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/TapGestureHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/ViewConfigurationHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerButtonViewManager$ButtonViewGroup$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerButtonViewManager$ButtonViewGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerButtonViewManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerEnabledRootView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerEventDataExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerInteractionManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerModule$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerModule$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerModule$FlingGestureHandlerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerModule$HandlerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerModule$LongPressGestureHandlerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerModule$NativeViewGestureHandlerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerModule$PanGestureHandlerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerModule$PinchGestureHandlerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerModule$RotationGestureHandlerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerModule$TapGestureHandlerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerRegistry$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerRegistry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerRootHelper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerRootHelper$RootViewGestureHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerRootHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerRootInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerRootView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerRootViewManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNGestureHandlerStateChangeEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNViewConfigurationHelper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/javac/release/classes/com/swmansion/gesturehandler/react/RNViewConfigurationHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/local_only_symbol_list/release/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/navigation_json/release/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/packaged_manifests/release/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/runtime_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/tmp/compileReleaseJavaWithJavac/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/.transforms/0d37a259039df91d411555df4f43f1da/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/.transforms/0d37a259039df91d411555df4f43f1da/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/.transforms/ab9c3b83fb6952911cdcace8a9ea1c7a/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/.transforms/ab9c3b83fb6952911cdcace8a9ea1c7a/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/generated/source/buildConfig/release/com/airbnb/android/react/maps/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/aar_metadata/release/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/compile_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/compile_r_class_jar/release/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/compile_symbol_list/release/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/incremental/packageReleaseAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/incremental/packageReleaseResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapCallout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapCalloutManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapCircleManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapFeature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapGradientPolyline$AirMapGradientPolylineProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapGradientPolyline$MutPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapGradientPolyline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapGradientPolylineManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapHeatmap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapHeatmapManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapLiteManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapLocalTile$AIRMapLocalTileProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapLocalTile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapLocalTileManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapMarker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapMarker$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapMarker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapMarkerManager$AirMapMarkerSharedIcon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapMarkerManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapModule$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapModule$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapModule$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapModule$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapModule$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapModule$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapModule$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapOverlay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapOverlayManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapPolygon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapPolygonManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapPolyline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapPolylineManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapUrlTile$AIRMapUrlTileProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapUrlTile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapUrlTileManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView$15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView$16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView$17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapWMSTile$AIRMapGSUrlTileProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapWMSTile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/AirMapWMSTileManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/FileUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/FusedLocationSource$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/FusedLocationSource$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/FusedLocationSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/ImageReadable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/ImageReader$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/ImageReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/ImageUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/LatLngBoundsUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/MapsPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/RegionChangeEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/SizeReportingShadowNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/ViewAttacherGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/ViewChangesTracker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/javac/release/classes/com/airbnb/android/react/maps/ViewChangesTracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/library_assets/release/out/ula.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/local_only_symbol_list/release/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/merged_manifest/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/navigation_json/release/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/packaged_manifests/release/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/runtime_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-maps/lib/android/build/tmp/compileReleaseJavaWithJavac/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/0d2181defb6e134067f3226a88fe465f/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/0d2181defb6e134067f3226a88fe465f/transformed/jetified-react-native-reanimated-65-jsc-runtime/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/d9cba6cb04cb42ecd3fac0267ae23439/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/d9cba6cb04cb42ecd3fac0267ae23439/transformed/jetified-react-native-reanimated-65-jsc-runtime/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/.transforms/8b42c9278f7d6a5c6bd63b90f451d574/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/.transforms/8b42c9278f7d6a5c6bd63b90f451d574/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/.transforms/bdd3f55f05b0b4dffcca86368533c157/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/.transforms/bdd3f55f05b0b4dffcca86368533c157/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/generated/source/buildConfig/release/com/th3rdwave/safeareacontext/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/aar_metadata/release/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/compile_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/compile_r_class_jar/release/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/compile_symbol_list/release/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/incremental/packageReleaseAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/incremental/packageReleaseResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/EdgeInsets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/InsetsChangeEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/Rect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/SafeAreaContextPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/SafeAreaProvider$OnInsetsChangeListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/SafeAreaProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/SafeAreaProviderManager$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/SafeAreaProviderManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/SafeAreaUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/SafeAreaView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/SafeAreaView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/SafeAreaViewEdges.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/SafeAreaViewLocalData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/SafeAreaViewManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/SafeAreaViewMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/SafeAreaViewShadowNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/javac/release/classes/com/th3rdwave/safeareacontext/SerializationUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/local_only_symbol_list/release/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/navigation_json/release/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/packaged_manifests/release/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/tmp/compileReleaseJavaWithJavac/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/.transforms/0267a0bf435ff8ec20b5d300a86dc99e/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/.transforms/0267a0bf435ff8ec20b5d300a86dc99e/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/.transforms/670e9893a6ce87cc7b32adf20975ae3a/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/.transforms/670e9893a6ce87cc7b32adf20975ae3a/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/generated/source/buildConfig/release/com/swmansion/rnscreens/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/aar_metadata/release/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/compile_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/compile_r_class_jar/release/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/compile_symbol_list/release/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/compiled_local_resources/release/out/anim_rns_fade_from_bottom.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/compiled_local_resources/release/out/anim_rns_fade_to_bottom.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/compiled_local_resources/release/out/anim_rns_no_animation_250.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/compiled_local_resources/release/out/anim_rns_no_animation_350.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/compiled_local_resources/release/out/anim_rns_no_animation_medium.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/compiled_local_resources/release/out/anim_rns_slide_in_from_bottom.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/compiled_local_resources/release/out/anim_rns_slide_in_from_left.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/compiled_local_resources/release/out/anim_rns_slide_in_from_right.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/compiled_local_resources/release/out/anim_rns_slide_out_to_bottom.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/compiled_local_resources/release/out/anim_rns_slide_out_to_left.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/compiled_local_resources/release/out/anim_rns_slide_out_to_right.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/incremental/packageReleaseAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/incremental/packageReleaseResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/javac/release/classes/com/swmansion/rnscreens/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/library_java_res/release/res.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/local_only_symbol_list/release/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/navigation_json/release/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/packaged_manifests/release/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/packaged_res/release/anim/rns_fade_from_bottom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/packaged_res/release/anim/rns_fade_to_bottom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/packaged_res/release/anim/rns_no_animation_250.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/packaged_res/release/anim/rns_no_animation_350.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/packaged_res/release/anim/rns_no_animation_medium.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/packaged_res/release/anim/rns_slide_in_from_bottom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/packaged_res/release/anim/rns_slide_in_from_left.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/packaged_res/release/anim/rns_slide_in_from_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/packaged_res/release/anim/rns_slide_out_to_bottom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/packaged_res/release/anim/rns_slide_out_to_left.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/packaged_res/release/anim/rns_slide_out_to_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/runtime_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileDebugKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileDebugKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileDebugKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileDebugKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/constants.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/constants.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/constants.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/constants.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/constants.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/constants.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/constants.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/proto.tab.values" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/proto.tab.values.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/kotlin/compileReleaseKotlin/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/compileReleaseJavaWithJavac/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/META-INF/react-native-screens_release.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/LifecycleHelper$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/LifecycleHelper$mRegisterOnLayoutChange$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/LifecycleHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/RNScreensPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/Screen$ActivityState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/Screen$Companion$sShowSoftKeyboardOnAttach$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/Screen$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/Screen$ReplaceAnimation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/Screen$StackAnimation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/Screen$StackPresentation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/Screen$WindowTraits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/Screen$onLayout$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/Screen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenContainer$mLayoutCallback$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenContainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenContainerViewManager$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenContainerViewManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenFragment$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenFragment$ScreenLifecycleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenFragment$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenFragment$onViewAnimationEnd$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenFragment$onViewAnimationStart$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenFragment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStack$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStack$DrawingOp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStack$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStack$onUpdate$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStackFragment$NotifyingCoordinatorLayout$mAnimationListener$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStackFragment$NotifyingCoordinatorLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStackFragment$ScreensAnimation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStackFragment$onCreateAnimation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStackFragment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStackHeaderConfig$DebugMenuToolbar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStackHeaderConfig$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStackHeaderConfig$mBackClickListener$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStackHeaderConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStackHeaderConfigViewManager$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStackHeaderConfigViewManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStackHeaderSubview$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStackHeaderSubview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStackHeaderSubviewManager$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStackHeaderSubviewManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStackViewManager$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenStackViewManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenViewManager$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenViewManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenWindowTraits$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenWindowTraits$setColor$1$runGuarded$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenWindowTraits$setColor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenWindowTraits$setHidden$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenWindowTraits$setStyle$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenWindowTraits$setTranslucent$1$runGuarded$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenWindowTraits$setTranslucent$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreenWindowTraits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreensShadowNode$onBeforeLayout$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/ScreensShadowNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/events/HeaderBackButtonClickedEvent$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/events/HeaderBackButtonClickedEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/events/ScreenAppearEvent$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/events/ScreenAppearEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/events/ScreenDisappearEvent$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/events/ScreenDisappearEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/events/ScreenDismissedEvent$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/events/ScreenDismissedEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/events/ScreenTransitionProgressEvent$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/events/ScreenTransitionProgressEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/events/ScreenWillAppearEvent$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/events/ScreenWillAppearEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/events/ScreenWillDisappearEvent$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/events/ScreenWillDisappearEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/events/StackFinishTransitioningEvent$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/kotlin-classes/release/com/swmansion/rnscreens/events/StackFinishTransitioningEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/.transforms/64bc58b15468b865d293e2b975edb58d/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/.transforms/64bc58b15468b865d293e2b975edb58d/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/.transforms/72d59d78808a969c74169e855c7242ad/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/.transforms/72d59d78808a969c74169e855c7242ad/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/generated/source/buildConfig/release/org/devio/rn/splashscreen/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/aar_metadata/release/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/compile_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/compile_r_class_jar/release/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/compile_symbol_list/release/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/incremental/packageReleaseAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/incremental/packageReleaseResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/incremental/packageReleaseResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/javac/release/classes/org/devio/rn/splashscreen/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/javac/release/classes/org/devio/rn/splashscreen/SplashScreen$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/javac/release/classes/org/devio/rn/splashscreen/SplashScreen$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/javac/release/classes/org/devio/rn/splashscreen/SplashScreen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/javac/release/classes/org/devio/rn/splashscreen/SplashScreenModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/javac/release/classes/org/devio/rn/splashscreen/SplashScreenReactPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/local_only_symbol_list/release/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/navigation_json/release/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/packaged_manifests/release/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/packaged_res/release/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/runtime_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/tmp/compileReleaseJavaWithJavac/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/.transforms/dc16c7553465ce989dd75a7f900c9597/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/.transforms/dc16c7553465ce989dd75a7f900c9597/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/.transforms/ecb231ed23609448d68f93069bd92482/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/.transforms/ecb231ed23609448d68f93069bd92482/transformed/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/generated/source/buildConfig/release/com/oblador/vectoricons/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/aar_metadata/release/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/compile_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/compile_r_class_jar/release/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/compile_symbol_list/release/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/incremental/packageReleaseAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/incremental/packageReleaseResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/javac/release/classes/com/oblador/vectoricons/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/javac/release/classes/com/oblador/vectoricons/VectorIconsModule$Errors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/javac/release/classes/com/oblador/vectoricons/VectorIconsModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/javac/release/classes/com/oblador/vectoricons/VectorIconsPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/local_only_symbol_list/release/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/navigation_json/release/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/packaged_manifests/release/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/runtime_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/tmp/compileReleaseJavaWithJavac/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/AntDesign.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/AntDesign.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/Entypo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/Entypo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/EvilIcons.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/EvilIcons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/Feather.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/Feather.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/FontAwesome.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/FontAwesome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/FontAwesome5.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/FontAwesome5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/FontAwesome5Pro.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/FontAwesome5Pro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/Fontisto.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/Fontisto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/Foundation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/Foundation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/Ionicons.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/Ionicons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/MaterialCommunityIcons.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/MaterialCommunityIcons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/MaterialIcons.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/MaterialIcons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/Octicons.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/Octicons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/RNIMigration.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/RNIMigration.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/SimpleLineIcons.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/SimpleLineIcons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/Zocial.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/Zocial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/index.js.flow" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/index.js.flow" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/lib/create-icon-set-from-fontawesome5.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/lib/create-icon-set-from-fontawesome5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/lib/create-icon-set.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/lib/create-icon-set.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/lib/create-multi-style-icon-set.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/lib/create-multi-style-icon-set.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/lib/ensure-native-module-available.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/lib/ensure-native-module-available.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/lib/generate-icon-set-from-css.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/lib/generate-icon-set-from-css.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/lib/icon-button.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/lib/icon-button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/lib/react-native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/lib/react-native.osx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/dist/lib/react-native.web.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/index.js.flow" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/index.js.flow" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/lib/create-icon-set-from-fontawesome5.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/lib/create-icon-set-from-fontawesome5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/lib/create-icon-set.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/lib/create-icon-set.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/lib/ensure-native-module-available.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/lib/ensure-native-module-available.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/lib/icon-button.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/lib/icon-button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/lib/react-native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/lib/react-native.osx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/lib/react-native.web.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +852,7 @@
     <property name="ExportApk.SignV2" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="memory.settings.postsync.last.time.stamp" value="1639396863090" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1640065907573" />
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -191,5 +957,9 @@
       <screen x="0" y="25" width="1920" height="962" />
     </state>
     <state x="718" y="142" key="SettingsEditor/0.25.1920.962@0.25.1920.962" timestamp="1638854961142" />
+    <state x="726" y="231" key="run.anything.popup" timestamp="1640065885252">
+      <screen x="0" y="25" width="1920" height="962" />
+    </state>
+    <state x="726" y="231" key="run.anything.popup/0.25.1920.962@0.25.1920.962" timestamp="1640065885252" />
   </component>
 </project>

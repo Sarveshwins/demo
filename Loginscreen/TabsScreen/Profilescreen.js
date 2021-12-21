@@ -16,6 +16,7 @@ import { AppStorage } from "../AsynStorage/asyncStorage";
 import Active from "./Active";
 import Completed from "./Completed";
 import { attemptCompletBookingActions } from "../actions/CompletedBooking";
+import MaterialCommunityIcons from "react-native-vector-icons/MaterialCommunityIcons";
 
 const ButtonData = [
   {
@@ -73,6 +74,11 @@ const Profilescreen = ({
     //   search: text,
     // });
   };
+  useEffect(() => {
+    if (!search) {
+      SearchFilteredData(search);
+    }
+  }, [search]);
   const SearchFilteredData = (text) => {
     searchFilterFunction___(text);
   };
@@ -117,14 +123,28 @@ const Profilescreen = ({
         >
           <TextInput
             allowFontScaling={false}
-            style={{ flex: 4, fontSize: 12, fontWeight: "300" }}
+            style={{ flex: 1, fontSize: 12, fontWeight: "300" }}
             placeholder="Search "
             onChangeText={(text) => {
-              SearchFilteredData(text);
+              setSearch(text);
             }}
             placeholderTextColor={"black"}
-            //value={search}
+            value={search}
           />
+          <View
+            style={{
+              width: "20%",
+              height: 50,
+              backgroundColor: "black",
+              borderRadius: 15,
+              alignItems: "center",
+              justifyContent: "center",
+            }}
+          >
+            <TouchableOpacity onPress={() => SearchFilteredData(search)}>
+              <Image source={require("../Assets/search.png")} />
+            </TouchableOpacity>
+          </View>
         </View>
         <View
           style={{
