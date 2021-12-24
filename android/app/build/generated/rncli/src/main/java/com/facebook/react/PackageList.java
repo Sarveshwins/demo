@@ -17,6 +17,8 @@ import com.reactnativecommunity.asyncstorage.AsyncStoragePackage;
 import com.reactnativecommunity.clipboard.ClipboardPackage;
 // @react-native-masked-view/masked-view
 import org.reactnative.maskedview.RNCMaskedViewPackage;
+// @react-native-picker/picker
+import com.reactnativecommunity.picker.RNCPickerPackage;
 // react-native-fast-image
 import com.dylanvann.fastimage.FastImageViewPackage;
 // react-native-gesture-handler
@@ -81,6 +83,7 @@ public class PackageList {
       new AsyncStoragePackage(),
       new ClipboardPackage(),
       new RNCMaskedViewPackage(),
+      new RNCPickerPackage(),
       new FastImageViewPackage(),
       new RNGestureHandlerPackage(),
       new MapsPackage(),

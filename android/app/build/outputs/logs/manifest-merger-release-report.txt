@@ -4,16 +4,17 @@ ADDED from /Users/dinesh/Documents/GitHub/demo/android/app/src/main/AndroidManif
 INJECTED from /Users/dinesh/Documents/GitHub/demo/android/app/src/main/AndroidManifest.xml:1:1-29:12
 INJECTED from /Users/dinesh/Documents/GitHub/demo/android/app/src/main/AndroidManifest.xml:1:1-29:12
 INJECTED from /Users/dinesh/Documents/GitHub/demo/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from [:react-native-vector-icons] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-async-storage_async-storage] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-community_clipboard] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-community/clipboard/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-masked-view_masked-view] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-masked-view/masked-view/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-picker_picker] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-fast-image] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-maps] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-12:12
 MERGED from [:react-native-safe-area-context] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-splash-screen] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-12:12
-MERGED from [:react-native-vector-icons] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-native:0.65.1] /Users/dinesh/.gradle/caches/transforms-3/7cdf8de9c37004713d4017747f452054/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dinesh/.gradle/caches/transforms-3/13fd9b66b2f17faf01d7b58e404cc03f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r250230] /Users/dinesh/.gradle/caches/transforms-3/2dd430581997c82f8fcb8ae144aabe30/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
@@ -175,12 +176,16 @@ uses-sdk
 INJECTED from /Users/dinesh/Documents/GitHub/demo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/dinesh/Documents/GitHub/demo/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/dinesh/Documents/GitHub/demo/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-async-storage_async-storage] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-async-storage_async-storage] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_clipboard] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-community/clipboard/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_clipboard] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-community/clipboard/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-masked-view_masked-view] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-masked-view/masked-view/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-masked-view_masked-view] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-masked-view/masked-view/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] /Users/dinesh/Documents/GitHub/demo/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-fast-image] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-fast-image] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
@@ -193,8 +198,6 @@ MERGED from [:react-native-screens] /Users/dinesh/Documents/GitHub/demo/node_mod
 MERGED from [:react-native-screens] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-splash-screen] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-splash-screen] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] /Users/dinesh/Documents/GitHub/demo/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.65.1] /Users/dinesh/.gradle/caches/transforms-3/7cdf8de9c37004713d4017747f452054/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.65.1] /Users/dinesh/.gradle/caches/transforms-3/7cdf8de9c37004713d4017747f452054/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dinesh/.gradle/caches/transforms-3/13fd9b66b2f17faf01d7b58e404cc03f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44

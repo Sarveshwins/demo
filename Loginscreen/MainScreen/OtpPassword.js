@@ -23,7 +23,7 @@ const OtpPassword = ({ attemptOtpScreen, OtpData, attemptUserRegister }) => {
       otp: otpPassword,
 
       extraData: async (loginRespo) => {
-        console.log("loginResposss", loginRespo.data.message);
+        console.log("loginResposss", loginRespo);
         //   AppStorage.saveKey(
         //     key.SAVE_CLIENT_ID,
         //     JSON.stringify(loginRespo?.user_id),

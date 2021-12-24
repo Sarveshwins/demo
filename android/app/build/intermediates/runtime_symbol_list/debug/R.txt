@@ -1403,6 +1403,7 @@ int drawable googleg_disabled_color_18 0x7f070081
 int drawable googleg_standard_color_18 0x7f070082
 int drawable ic_calendar_black_24dp 0x7f070083
 int drawable ic_clear_black_24dp 0x7f070084
+int drawable ic_dropdown 0x7f0700a8
 int drawable ic_edit_black_24dp 0x7f070085
 int drawable ic_keyboard_arrow_left_black_24dp 0x7f070086
 int drawable ic_keyboard_arrow_right_black_24dp 0x7f070087
@@ -1435,6 +1436,7 @@ int drawable notification_template_icon_low_bg 0x7f0700a1
 int drawable notification_tile_bg 0x7f0700a2
 int drawable notify_panel_notification_icon_bg 0x7f0700a3
 int drawable redbox_top_border_background 0x7f0700a4
+int drawable spinner_dropdown_background 0x7f0700a9
 int drawable test_custom_background 0x7f0700a5
 int drawable tooltip_frame_dark 0x7f0700a6
 int drawable tooltip_frame_light 0x7f0700a7
@@ -1554,6 +1556,8 @@ int id design_menu_item_text 0x7f080070
 int id design_navigation_view 0x7f080071
 int id dialog_button 0x7f080072
 int id disableHome 0x7f080073
+int id dropdown_background 0x7f080145
+int id dropdown_icon 0x7f080146
 int id dropdown_menu 0x7f080074
 int id edit_query 0x7f080075
 int id end 0x7f080076
@@ -1888,6 +1892,8 @@ int layout redbox_view 0x7f0b0056
 int layout select_dialog_item_material 0x7f0b0057
 int layout select_dialog_multichoice_material 0x7f0b0058
 int layout select_dialog_singlechoice_material 0x7f0b0059
+int layout simple_spinner_dropdown_item 0x7f0b0067
+int layout simple_spinner_item 0x7f0b0068
 int layout support_simple_spinner_dropdown_item 0x7f0b005a
 int layout test_action_chip 0x7f0b005b
 int layout test_design_checkbox 0x7f0b005c

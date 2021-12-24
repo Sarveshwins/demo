@@ -129,6 +129,7 @@
     <orderEntry type="library" name="Gradle: com.facebook.fresco:imagepipeline-okhttp3:2.5.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: org.webkit:android-jsc:r250230@aar" level="project" />
     <orderEntry type="library" name="Gradle: artifacts:react-native-reanimated:unspecified" level="project" />
+    <orderEntry type="module" module-name="CONTICO.react-native-picker_picker" />
     <orderEntry type="module" module-name="CONTICO.react-native-screens" />
     <orderEntry type="module" module-name="CONTICO.react-native-vector-icons" />
     <orderEntry type="module" module-name="CONTICO.react-native-async-storage_async-storage" />

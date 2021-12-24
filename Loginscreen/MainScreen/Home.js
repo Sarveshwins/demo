@@ -31,8 +31,8 @@ const Home = ({ navigation, attemptLogin, loginFetching }) => {
     console.log("PAYLOAD", getData.username, getData.password);
 
     attemptLogin({
-      email: "pramod@softoasistech.com", //getData.username,
-      password: "ssp@2020", //getData.password,
+      email: getData.username, //"pramod@softoasistech.com", //,
+      password: getData.password, //"ssp@2020", //getData.password,
 
       extraData: async (loginRespo) => {
         console.log("loginRespo", loginRespo?.user_id);

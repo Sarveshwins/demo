@@ -11,20 +11,25 @@ import { bindActionCreators } from "redux";
 import { attemptUserRegisterActions } from "../actions/UserRegister";
 import { AppStorage, key } from "../AsynStorage/asyncStorage";
 import validator from "validator";
+import countryList from "country-list";
+import { Picker } from "@react-native-picker/picker";
 
+import CountryDetails from "./country.json";
+
+const countries = countryList.getData();
 const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
   useEffect(() => {}, []);
-
+  const [country, setCountry] = useState(CountryDetails[104].dialCode);
   const [data, setData] = useState({
     email: "", //pradeep@shivam.com",
     password: "", //12345678",
     first_name: "", //"Pradeep",
     last_name: "", //Kumar",
     phone: "", // "9431140126",
-    country_code: "", // "+91",
+    country_code: CountryDetails[97].dialCode, // "+91",
     company_name: "", // "Shivam",
   });
-  console.log("dataalert", UserRegisterData);
+  console.log("dataalert", data.country_code);
 
   const Validate = () => {
     if (!data.email.trim()) {
@@ -69,12 +74,12 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
         company_name: data.company_name, // "Shivam",
 
         extraData: async (loginRespo) => {
-          console.log("loginResposss", loginRespo?.data?.user_id);
+          console.log("loginResposss", loginRespo?.user_id);
           AppStorage.saveKey(
             key.SAVE_CLIENT_ID___,
-            JSON.stringify(loginRespo?.data?.user_id)
+            JSON.stringify(loginRespo?.user_id)
           );
-          if (loginRespo) {
+          if (loginRespo?.user_id) {
             navigation.navigate("OtpPassword");
           }
         },
@@ -146,7 +151,7 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
       </View>
 
       <View style={styles.gat}>
-        <TextInput
+        {/* <TextInput
           style={{
             flex: 1,
             color: "black",
@@ -160,7 +165,23 @@ const Otpscreen = ({ attemptUserRegister, UserRegisterData, navigation }) => {
             })
           }
           placeholderTextColor={"#6D6D6D"}
-        />
+        /> */}
+
+        <View style={styles.row}>
+          <Picker
+            selectedValue={data.country_code}
+            onValueChange={(val) =>
+              setData({
+                ...data,
+                country_code: val,
+              })
+            }
+          >
+            {CountryDetails.map((country) => (
+              <Picker.Item value={country.dialCode} label={country.name} />
+            ))}
+          </Picker>
+        </View>
       </View>
       <View style={styles.gat}>
         <TextInput

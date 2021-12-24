@@ -12,10 +12,10 @@ export function* handleOtpRequest(action) {
     yield console.log("req >>> ", JSON.stringify(data));
     let response = yield request("post", Path, data); //call(request, 'POST', loginPath, data);
     yield console.log("Res >>> ", JSON.stringify(response));
-    if (response.status === STATUS_OK) {
+    if (response.data.status === true) {
       yield put(attemptOtpActions.success(response));
       if (typeof action.payload.extraData === "function") {
-        action.payload.extraData(response);
+        action.payload.extraData(response.data);
       }
     } else {
       yield put(attemptOtpActions.failure(response));
