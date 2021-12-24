@@ -1,10 +1,16 @@
-import React, {useState, useEffect} from 'react';
-import {StyleSheet, Text, View, FlatList, TouchableOpacity} from 'react-native';
-import {connect} from 'react-redux';
-import {bindActionCreators} from 'redux';
-import {AppStorage} from '../AsynStorage/asyncStorage';
-import {attemptinprogressBookingActions} from '../actions/inprogressBooking';
-import AppBg from '../MainScreen/AppBg';
+import React, { useState, useEffect } from "react";
+import {
+  StyleSheet,
+  Text,
+  View,
+  FlatList,
+  TouchableOpacity,
+} from "react-native";
+import { connect } from "react-redux";
+import { bindActionCreators } from "redux";
+import { AppStorage } from "../AsynStorage/asyncStorage";
+import { attemptinprogressBookingActions } from "../actions/inprogressBooking";
+import AppBg from "../MainScreen/AppBg";
 const Active = ({
   attemptCBooking,
   navigation,
@@ -13,25 +19,26 @@ const Active = ({
 }) => {
   useEffect(async () => {
     const client_Id = await AppStorage.getClientId();
-    console.log('client id here under console1', client_Id);
+    console.log("client id here under console1", client_Id);
     attemptCBooking({
       user_id: client_Id,
-      extraData: async loginRespo => {
-        console.log('booking', loginRespo);
+      extraData: async (loginRespo) => {
+        console.log("booking", loginRespo);
       },
     });
   }, []);
-  console.log('CbookingData', inbookingData);
+  console.log("CbookingData", inbookingData);
 
   return (
-    <View style={{flex: 1}}>
+    <View style={{ flex: 1 }}>
       <AppBg
         showHeader={false}
         navigation={navigation}
-        loading={inbookingFetching}>
+        loading={inbookingFetching}
+      >
         <FlatList
           data={inbookingData}
-          renderItem={({item}) => {
+          renderItem={({ item }) => {
             return (
               <View style={styles.cardView}>
                 {/* <View style={styles.firstView}>
@@ -43,7 +50,8 @@ const Active = ({
                       paddingLeft: 5,
                       // justifyContent: 'space-around',
                       flex: 1,
-                    }}>
+                    }}
+                  >
                     <Text style={styles.textstyle}>
                       BOOKING ID : {item.BOOKING_ID}
                     </Text>
@@ -57,12 +65,16 @@ const Active = ({
                       PICKUP DATE : {item.PICKUP_DATE}
                     </Text>
                     <Text style={styles.textstyle}>
-                      {' '}
+                      {" "}
                       GOODS : {item.GOODS_TYPE}
                     </Text>
                   </View>
                   <View style={styles.butonView}>
-                    <TouchableOpacity>
+                    <TouchableOpacity
+                      onPress={() =>
+                        navigation.navigate("DetailedScreen", { item: item })
+                      }
+                    >
                       <Text style={styles.payNow}>View Details</Text>
                     </TouchableOpacity>
                   </View>
@@ -81,10 +93,10 @@ const mapStateToProps = function (state) {
     ...state.completebookingReducer,
   };
 };
-export default connect(mapStateToProps, dispatch => ({
+export default connect(mapStateToProps, (dispatch) => ({
   attemptCBooking: bindActionCreators(
     attemptinprogressBookingActions.start,
-    dispatch,
+    dispatch
   ),
 }))(Active);
 
@@ -96,9 +108,9 @@ const styles = StyleSheet.create({
   },
   cardView: {
     flex: 1,
-    width: '100%',
+    width: "100%",
     //  height: 150,
-    flexDirection: 'row',
+    flexDirection: "row",
     // justifyContent: 'center',
     // alignItems: 'center',
 
@@ -106,41 +118,41 @@ const styles = StyleSheet.create({
   },
   firstView: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
+    justifyContent: "center",
+    alignItems: "center",
   },
   secondView: {
     flex: 2.5,
-    justifyContent: 'space-between',
+    justifyContent: "space-between",
     // alignItems: 'center',
-    backgroundColor: 'lightgrey',
+    backgroundColor: "lightgrey",
   },
   textstyle: {
     //fontWeight: 'bold',
     fontSize: 18,
     margin: 3,
-    color: 'black',
+    color: "black",
   },
   payNow: {
-    textAlign: 'center',
-    fontWeight: 'bold',
+    textAlign: "center",
+    fontWeight: "bold",
     fontSize: 20,
   },
   butonView: {
-    backgroundColor: 'skyblue',
-    justifyContent: 'center',
-    alignSelf: 'center',
-    alignItems: 'center',
-    width: '100%',
+    backgroundColor: "skyblue",
+    justifyContent: "center",
+    alignSelf: "center",
+    alignItems: "center",
+    width: "100%",
 
     height: 30,
   },
   toView: {
-    justifyContent: 'center',
+    justifyContent: "center",
     paddingLeft: 20,
-    width: '100%',
+    width: "100%",
     height: 60,
 
-    backgroundColor: 'lightblue',
+    backgroundColor: "lightblue",
   },
 });

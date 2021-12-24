@@ -20,9 +20,12 @@ const DetailedScreen = ({ route, attemptBookingDetails }) => {
           source={require("../../assets/header.png")}
         />
       </View> */}
-      <Text style={{ fontWeight: "bold", fontSize: 20, marginBottom: 10 }}>
-        Details
-      </Text>
+      <View>
+        <Text style={{ fontWeight: "bold", fontSize: 20, marginBottom: 10 }}>
+          Details
+        </Text>
+      </View>
+
       <View style={styles.secondaryView}>
         <Text style={styles.textStyle}>BOOKING ID1 : {item.BOOKING_ID}</Text>
         <Text style={styles.textStyle}>
@@ -55,7 +58,7 @@ export default connect(mapStateToProps, (dispatch) => ({
 const styles = StyleSheet.create({
   mainContainer: {
     flex: 1,
-    justifyContent: "center",
+    // justifyContent: "center",
     alignItems: "center",
     padding: 10,
   },
