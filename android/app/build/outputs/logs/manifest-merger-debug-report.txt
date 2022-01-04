@@ -79,7 +79,7 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/dinesh/.gradle/caches/
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dinesh/.gradle/caches/transforms-3/fcec1de4998beb0ff43cceab9e1087fb/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/dinesh/.gradle/caches/transforms-3/bc9ac48df2868c7096293dd453825149/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/dinesh/.gradle/caches/transforms-3/93f6eb2b7b06805b3d18d5defe030544/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/dinesh/.gradle/caches/transforms-3/cc1d7cfdfed8978ad3eb53535d8d5be9/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/dinesh/.gradle/caches/transforms-3/81a8c5e5b9e55a40d329876626b16571/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/dinesh/.gradle/caches/transforms-3/13a62fc9eac702d3af832565af840540/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/dinesh/Documents/GitHub/demo/android/app/src/debug/AndroidManifest.xml:2:1-13:12
 INJECTED from /Users/dinesh/Documents/GitHub/demo/android/app/src/debug/AndroidManifest.xml:2:1-13:12
@@ -145,8 +145,8 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/dinesh/.gradle/
 MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/dinesh/.gradle/caches/transforms-3/cb1735a0de3e882bb6cef2fd51ff9bbb/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/dinesh/.gradle/caches/transforms-3/6a6102d41c5edee90b6262526f77f8f8/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/dinesh/.gradle/caches/transforms-3/6a6102d41c5edee90b6262526f77f8f8/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/dinesh/.gradle/caches/transforms-3/cc1d7cfdfed8978ad3eb53535d8d5be9/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/dinesh/.gradle/caches/transforms-3/cc1d7cfdfed8978ad3eb53535d8d5be9/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/dinesh/.gradle/caches/transforms-3/81a8c5e5b9e55a40d329876626b16571/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/dinesh/.gradle/caches/transforms-3/81a8c5e5b9e55a40d329876626b16571/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /Users/dinesh/.gradle/caches/transforms-3/384a804ddf61add8f1298a3b8f500b71/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:label
@@ -349,8 +349,8 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/dinesh/.gr
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/dinesh/.gradle/caches/transforms-3/bc9ac48df2868c7096293dd453825149/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/dinesh/.gradle/caches/transforms-3/93f6eb2b7b06805b3d18d5defe030544/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/dinesh/.gradle/caches/transforms-3/93f6eb2b7b06805b3d18d5defe030544/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/dinesh/.gradle/caches/transforms-3/cc1d7cfdfed8978ad3eb53535d8d5be9/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/dinesh/.gradle/caches/transforms-3/cc1d7cfdfed8978ad3eb53535d8d5be9/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/dinesh/.gradle/caches/transforms-3/81a8c5e5b9e55a40d329876626b16571/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/dinesh/.gradle/caches/transforms-3/81a8c5e5b9e55a40d329876626b16571/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
 MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/dinesh/.gradle/caches/transforms-3/13a62fc9eac702d3af832565af840540/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/dinesh/.gradle/caches/transforms-3/13a62fc9eac702d3af832565af840540/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
 INJECTED from /Users/dinesh/Documents/GitHub/demo/android/app/src/debug/AndroidManifest.xml
@@ -409,8 +409,8 @@ ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/dinesh/.gra
 		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/dinesh/.gradle/caches/transforms-3/c099f34bb597d03b4b670af755f47f98/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
 ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/dinesh/.gradle/caches/transforms-3/d2aab5a9146bf1ef884137d70b855134/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/dinesh/.gradle/caches/transforms-3/cc1d7cfdfed8978ad3eb53535d8d5be9/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/dinesh/.gradle/caches/transforms-3/cc1d7cfdfed8978ad3eb53535d8d5be9/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/dinesh/.gradle/caches/transforms-3/81a8c5e5b9e55a40d329876626b16571/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/dinesh/.gradle/caches/transforms-3/81a8c5e5b9e55a40d329876626b16571/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
 	android:value
 		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/dinesh/.gradle/caches/transforms-3/d2aab5a9146bf1ef884137d70b855134/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
 	android:name

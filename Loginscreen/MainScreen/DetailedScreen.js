@@ -1,10 +1,15 @@
 import React, { useEffect } from "react";
-import { StyleSheet, Text, View, Image } from "react-native";
+import { StyleSheet, Text, View, Image, ScrollView } from "react-native";
+import { FlatList } from "react-native-gesture-handler";
 import { connect } from "react-redux";
 import { bindActionCreators } from "redux";
 import { attemptBookingDetailsActions } from "../actions/BookinDetails";
 
-const DetailedScreen = ({ route, attemptBookingDetails }) => {
+const DetailedScreen = ({
+  route,
+  attemptBookingDetails,
+  bookingDetailsData,
+}) => {
   const { item } = route.params;
   console.log("items", item?.BOOKING_ID);
   useEffect(() => {
@@ -12,31 +17,50 @@ const DetailedScreen = ({ route, attemptBookingDetails }) => {
       booking_id: item?.BOOKING_ID,
     });
   }, []);
+  console.log("mmmmmm", bookingDetailsData);
   return (
-    <View style={styles.mainContainer}>
-      {/* <View style={{ height: 30, width: "100%" }}>
-        <Image
-          // style={{ height: 30, width: "50%" }}
-          source={require("../../assets/header.png")}
-        />
-      </View> */}
-      <View>
-        <Text style={{ fontWeight: "bold", fontSize: 20, marginBottom: 10 }}>
-          Details
-        </Text>
-      </View>
+    <View style={{ flex: 1 }}>
+      <ScrollView style={styles.mainContainer}>
+        <View>
+          <Text style={{ fontWeight: "bold", fontSize: 20, marginBottom: 10 }}>
+            Details
+          </Text>
+        </View>
 
-      <View style={styles.secondaryView}>
-        <Text style={styles.textStyle}>BOOKING ID1 : {item.BOOKING_ID}</Text>
-        <Text style={styles.textStyle}>
-          PLACE OF RECEIPT : {item.PLACE_OF_RECEIPT}
-        </Text>
-        <Text style={styles.textStyle}>
-          PLACE OF DELIVERY : {item.PLACE_OF_DELIVERY}
-        </Text>
-        <Text style={styles.textStyle}>PICKUP DATE : {item.PICKUP_DATE}</Text>
-        <Text style={styles.textStyle}>GOODS : {item.GOODS_TYPE}</Text>
-      </View>
+        <View style={styles.secondaryView}>
+          <Text style={styles.textStyle}>BOOKING ID1 : {item.BOOKING_ID}</Text>
+          <Text style={styles.textStyle}>
+            PLACE OF RECEIPT : {item.PLACE_OF_RECEIPT}
+          </Text>
+          <Text style={styles.textStyle}>
+            PLACE OF DELIVERY : {item.PLACE_OF_DELIVERY}
+          </Text>
+          <Text style={styles.textStyle}>PICKUP DATE : {item.PICKUP_DATE}</Text>
+          <Text style={styles.textStyle}>GOODS : {item.GOODS_TYPE}</Text>
+        </View>
+        {/* <View style={{ width: "100%", height: "100%" }}> */}
+        <View style={{ flex: 1 }}>
+          <FlatList
+            data={bookingDetailsData?.Mesaages}
+            renderItem={({ item }) => {
+              console.log(item, "llll");
+              return (
+                <View style={[styles.secondaryView, { marginTop: 20 }]}>
+                  <Text style={styles.textStyle}>
+                    POSTED BY : {item.POSTED_BY}
+                  </Text>
+                  <Text style={styles.textStyle}>
+                    POSTED ON : {item.POSTED_ON}
+                  </Text>
+                  <Text style={styles.textStyle}>STATUS : {item.STATUS}</Text>
+                  <Text style={styles.textStyle}>MESSAGE : {item.MESSAGE}</Text>
+                </View>
+              );
+            }}
+          />
+        </View>
+        {/* </View> */}
+      </ScrollView>
     </View>
   );
 };
@@ -57,15 +81,16 @@ export default connect(mapStateToProps, (dispatch) => ({
 
 const styles = StyleSheet.create({
   mainContainer: {
-    flex: 1,
     // justifyContent: "center",
-    alignItems: "center",
+    // alignItems: "center",
+    flex: 1,
+
     padding: 10,
   },
   secondaryView: {
     backgroundColor: "lightgrey",
     width: "100%",
-    height: "50%",
+    height: 250,
     borderRadius: 10,
     padding: 10,
     justifyContent: "center",

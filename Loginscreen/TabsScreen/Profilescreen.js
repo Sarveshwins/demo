@@ -69,11 +69,16 @@ const Profilescreen = ({
     }
   }, [selectedIndex]);
 
-  const searchFilterFunction = (text) => {
-    // getVcareList({
-    //   search: text,
-    // });
+  const SearchOnDifferent = () => {
+    if (CbookingData && selectedIndex === 2) {
+      setFilteredDataSource(CbookingData);
+      setMasterDataSource(CbookingData);
+    } else if (bookingData && selectedIndex === 0) {
+      setFilteredDataSource(bookingData);
+      setMasterDataSource(bookingData);
+    }
   };
+
   useEffect(() => {
     if (!search) {
       SearchFilteredData(search);
@@ -83,14 +88,10 @@ const Profilescreen = ({
     searchFilterFunction___(text);
   };
   const searchFilterFunction___ = (text) => {
-    // Check if searched text is not blank
     if (text) {
-      // Inserted text is not blank
-      // Filter the masterDataSource
-      // Update FilteredDataSource
       const newData = masterDataSource.filter(function (item) {
-        const itemData = item?.PLACE_OF_RECEIPT
-          ? item?.PLACE_OF_RECEIPT.toUpperCase()
+        const itemData = item?.BOOKING_ID
+          ? item?.BOOKING_ID.toUpperCase()
           : "".toUpperCase();
         const textData = text.toUpperCase();
         return itemData.indexOf(textData) > -1;
@@ -98,8 +99,6 @@ const Profilescreen = ({
       setFilteredDataSource(newData);
       setSearch(text);
     } else {
-      // Inserted text is blank
-      // Update FilteredDataSource with masterDataSource
       setFilteredDataSource(masterDataSource);
       setSearch(text);
     }
@@ -209,7 +208,7 @@ const Profilescreen = ({
         <View style={{ flex: 1 }}>
           {selectedIndex === 0 && (
             <FlatList
-              data={bookingData}
+              data={filteredDataSource}
               renderItem={({ item }) => {
                 return (
                   <View style={styles.cardView}>

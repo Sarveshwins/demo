@@ -61,6 +61,25 @@
                     }
                 },
                 {
+                    "source": "/Users/dinesh/.gradle/caches/transforms-3/81a8c5e5b9e55a40d329876626b16571/transformed/jetified-android-maps-utils-0.5/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,7,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,93,301,461",
+                        "endLines": "2,6,9,14",
+                        "endColumns": "37,12,12,12",
+                        "endOffsets": "88,296,456,708"
+                    },
+                    "to": {
+                        "startLines": "579,4385,4389,4392",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "37724,296163,296371,296531",
+                        "endLines": "579,4388,4391,4396",
+                        "endColumns": "37,12,12,12",
+                        "endOffsets": "37757,296366,296526,296778"
+                    }
+                },
+                {
                     "source": "/Users/dinesh/.gradle/caches/transforms-3/1eb731cf52ecd5a4523ad633daddc13d/transformed/transition-1.2.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -244,25 +263,6 @@
                         "endLines": "582,625,5915,5919",
                         "endColumns": "56,63,24,24",
                         "endOffsets": "37940,40064,380867,381016"
-                    }
-                },
-                {
-                    "source": "/Users/dinesh/.gradle/caches/transforms-3/cc1d7cfdfed8978ad3eb53535d8d5be9/transformed/jetified-android-maps-utils-0.5/res/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,7,10",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,93,301,461",
-                        "endLines": "2,6,9,14",
-                        "endColumns": "37,12,12,12",
-                        "endOffsets": "88,296,456,708"
-                    },
-                    "to": {
-                        "startLines": "579,4385,4389,4392",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "37724,296163,296371,296531",
-                        "endLines": "579,4388,4391,4396",
-                        "endColumns": "37,12,12,12",
-                        "endOffsets": "37757,296366,296526,296778"
                     }
                 },
                 {

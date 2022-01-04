@@ -16,12 +16,9 @@ import { attemptLoginActions } from "../actions/Login";
 import FastImage from "react-native-fast-image";
 import AppBg from "../MainScreen/AppBg";
 import { AppStorage, key } from "../AsynStorage/asyncStorage";
-import Otpscreen from "./Otpscreen";
-
 const Home = ({ navigation, attemptLogin, loginFetching }) => {
   const iimage = require("../../assets/logo.png");
   const idea = require("../../assets/logo.png");
-
   const loginUsername = useRef();
   const [data, setData] = useState({
     username: "",
@@ -29,11 +26,9 @@ const Home = ({ navigation, attemptLogin, loginFetching }) => {
   });
   const login = async (getData) => {
     console.log("PAYLOAD", getData.username, getData.password);
-
     attemptLogin({
-      email: getData.username, //"pramod@softoasistech.com", //,
-      password: getData.password, //"ssp@2020", //getData.password,
-
+      email: "pramod@softoasistech.com", //getData.username,
+      password: "ssp@2020", //getData.password,
       extraData: async (loginRespo) => {
         console.log("loginRespo", loginRespo?.user_id);
         AppStorage.saveKey(
@@ -59,7 +54,6 @@ const Home = ({ navigation, attemptLogin, loginFetching }) => {
   const onPress = (getdata, getType) => {
     if (!data.username.trim()) {
       alert("Please enter your email");
-
       return;
     }
     if (!data.password.trim()) {
@@ -68,12 +62,10 @@ const Home = ({ navigation, attemptLogin, loginFetching }) => {
     }
     if (!data.username.trim() && !data.password.trim()) {
       alert("Please Enter Email and Password");
-
       return;
     }
     if (!validator.isEmail(data.username)) {
       alert("Invalid email format");
-
       return;
     }
     login(data);
@@ -86,6 +78,7 @@ const Home = ({ navigation, attemptLogin, loginFetching }) => {
       password: "",
     });
   };
+
   return (
     <SafeAreaView style={styles.inst}>
       <AppBg navigation={navigation} showHeader={false} loading={loginFetching}>
