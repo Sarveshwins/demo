@@ -253,7 +253,7 @@ const Profilescreen = ({
               }}
             />
           )}
-          {selectedIndex === 1 && <Active />}
+          {selectedIndex === 1 && <Active navigation={navigation} />}
           {selectedIndex === 2 && (
             <Completed
               filteredDataSource={filteredDataSource}

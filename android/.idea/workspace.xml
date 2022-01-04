@@ -23,14 +23,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3843ffe-a39d-482e-9824-238420318ed8" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/../Loginscreen/TabsScreen/Active.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Loginscreen/TabsScreen/Active.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loginscreen/TabsScreen/Profilescreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Loginscreen/TabsScreen/Profilescreen.js" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.gradle/6.9/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.9/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.9/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.9/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.9/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.9/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.9/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.9/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/generated/assets/react/release/index.android.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/assets/react/release/index.android.bundle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/generated/res/resValues/debug/values/gradleResValues.xml" beforeDir="false" />
@@ -47,6 +52,62 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/compressed_assets/debug/out/assets/fonts/MaterialIcons.ttf.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/compressed_assets/debug/out/assets/ula.kml.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/compressed_assets/release/out/assets/index.android.bundle.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compressed_assets/release/out/assets/index.android.bundle.jar" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/modules/504426021/CONTICO.react-native-screens.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/504426021/CONTICO.react-native-screens.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/assets/react/release/index.android.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-mdpi/assets_booking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-mdpi/assets_dashboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-mdpi/assets_header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-mdpi/assets_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-mdpi/assets_logout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-mdpi/assets_user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backiconmask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/resValues/debug/values/gradleResValues.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/res/resValues/release/values/gradleResValues.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/rncli/src/main/java/com/facebook/react/PackageList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/bloom_runner/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/release/com/bloom_runner/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/sourcemaps/react/release/index.android.bundle.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/annotation_processor_list/release/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/app_metadata/debug/app-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/app_metadata/release/app-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/fonts/EvilIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/fonts/MaterialIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/release/fonts/EvilIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/release/fonts/MaterialIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/release/index.android.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compatible_screen_manifest/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compatible_screen_manifest/release/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compressed_assets/debug/out/assets/fonts/EvilIcons.ttf.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compressed_assets/debug/out/assets/fonts/MaterialIcons.ttf.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compressed_assets/debug/out/assets/ula.kml.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compressed_assets/release/out/assets/fonts/EvilIcons.ttf.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compressed_assets/release/out/assets/fonts/MaterialIcons.ttf.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compressed_assets/release/out/assets/index.android.bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compressed_assets/release/out/assets/ula.kml.jar" beforeDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_0/graph.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_1/graph.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_2/graph.bin" beforeDir="false" />
@@ -55,8 +116,19 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_46b022516a199a2cbd32bf59c58f8f0e4ab0897e857fd1cef924cb4496fd442e_bucket_1/graph.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_46b022516a199a2cbd32bf59c58f8f0e4ab0897e857fd1cef924cb4496fd442e_bucket_2/graph.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_46b022516a199a2cbd32bf59c58f8f0e4ab0897e857fd1cef924cb4496fd442e_bucket_3/graph.bin" beforeDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/release/out/currentProject/dirs_bucket_0/graph.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/release/out/currentProject/dirs_bucket_0/graph.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/release/out/currentProject/dirs_bucket_1/graph.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/release/out/currentProject/dirs_bucket_1/graph.bin" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/release/out/currentProject/dirs_bucket_0/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/release/out/currentProject/dirs_bucket_1/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/release/out/currentProject/dirs_bucket_2/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/release/out/currentProject/dirs_bucket_3/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/release/out/currentProject/jar_abeceb3ba3429662b10e35be18acc70231aec260c9db1937a59d5ae53995ce26_bucket_0/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/release/out/currentProject/jar_abeceb3ba3429662b10e35be18acc70231aec260c9db1937a59d5ae53995ce26_bucket_1/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/release/out/currentProject/jar_abeceb3ba3429662b10e35be18acc70231aec260c9db1937a59d5ae53995ce26_bucket_2/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/release/out/currentProject/jar_abeceb3ba3429662b10e35be18acc70231aec260c9db1937a59d5ae53995ce26_bucket_3/graph.bin" beforeDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex" beforeDir="false" />
@@ -74,8 +146,19 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex" beforeDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_number_of_buckets_file/debug/out" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/release/mergeDexRelease/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/release/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_number_of_buckets_file/debug/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_number_of_buckets_file/release/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/external_libs_dex/release/mergeExtDexRelease/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/external_libs_dex/release/mergeExtDexRelease/classes2.dex" beforeDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+7jBPl0r6jxyOyNuDGAZK2S86ec=" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+BXLL5u49HI7tg7fShOE57qb4A4=" beforeDir="false" />
@@ -375,12 +458,304 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/merge-state" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-af/values-af.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-am/values-am.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ar/values-ar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-as/values-as.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-az/values-az.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-be/values-be.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bg/values-bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bn/values-bn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bs/values-bs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ca/values-ca.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-cs/values-cs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-da/values-da.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-de/values-de.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-el/values-el.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rAU/values-en-rAU.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rCA/values-en-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rGB/values-en-rGB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rIN/values-en-rIN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rXC/values-en-rXC.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rUS/values-es-rUS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es/values-es.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-et/values-et.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-eu/values-eu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fa/values-fa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fi/values-fi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fr/values-fr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-gl/values-gl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-gu/values-gu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h360dp-land-v13/values-h360dp-land-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h480dp-land-v13/values-h480dp-land-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hi/values-hi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hr/values-hr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hu/values-hu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hy/values-hy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-in/values-in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-is/values-is.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-it/values-it.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-iw/values-iw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ja/values-ja.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ka/values-ka.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-kk/values-kk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-km/values-km.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-kn/values-kn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ko/values-ko.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ky/values-ky.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-land/values-land.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-large-v4/values-large-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lo/values-lo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lt/values-lt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lv/values-lv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mk/values-mk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ml/values-ml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mn/values-mn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mr/values-mr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ms/values-ms.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-my/values-my.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-nb/values-nb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ne/values-ne.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-night-v8/values-night-v8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-nl/values-nl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-or/values-or.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pa/values-pa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pl/values-pl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt/values-pt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ro/values-ro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ru/values-ru.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-si/values-si.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sk/values-sk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sl/values-sl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-small-v4/values-small-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sq/values-sq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sr/values-sr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sv/values-sv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw/values-sw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ta/values-ta.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-te/values-te.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-th/values-th.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-tl/values-tl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-tr/values-tr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-uk/values-uk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ur/values-ur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-uz/values-uz.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v17/values-v17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v21/values-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v22/values-v22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v23/values-v23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v24/values-v24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v25/values-v25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v26/values-v26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v28/values-v28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-vi/values-vi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w360dp-port-v13/values-w360dp-port-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w480dp-port-v13/values-w480dp-port-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v20/values-watch-v20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v21/values-watch-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zu/values-zu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/tmp/release/zip-cache/androidResources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/tmp/release/zip-cache/javaResources0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/+7jBPl0r6jxyOyNuDGAZK2S86ec=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/+BXLL5u49HI7tg7fShOE57qb4A4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/+LG+bynl8HJz10lmjKng08BuDRE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/1+5zDj9qW1oAujbAconBAV5LmXE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/2Zk5FEKz_5Ld42EAXJ8ro74+p5U=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/4bNtCGlqgUKXGoipJJBTuwjSiFM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/5+kA2_FwhHpID3Vgz9b6iQD01Rc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/5Edm5pgaDfHdONosiZtSxt6UEIw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/5gi8AY5anfcbVie5xGJees6LOSQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/6q3EOO9phJvZT_u_qndijvh7PEk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/74dsEVHTNBilL61tc_2NjITy9GA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/7Xtv9DRosCybGTtVaGfp8mo8fAo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/7jCgqMN2JfsJlYI64CtLZ4Li3Ac=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/7tJ5DSbGlzCZFr2Y3+L9sSCT800=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/8ZKJtXEFI8YuWTGQiCT2hV+hd7M=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/ALg2b4UWUu49g+c40E8kKorTMbU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/BgKHrf8c8i1tfHpa31CHKPErKNw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/Bz5tbjp8MkO0TcmKK5ZCL+cnylE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/D6Uqc3VQO24clFylTH+Tz6UYe24=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/DNEJd47rJ0UbxfYGunXlsaZG8uc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/Dkpg6j2xfN7Y8m8EqDuESWlBWgE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/DpBhCid_ER9eatpGnf3RrRhPr3s=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/FDSBMZmGQRT2ycIaTp9Bvp1QoyY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/Fu146r7k1xtEKTBBirLJf+LdDD8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/GGAVzDRO3+MuYV43n7DAXBJvz4c=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/Hl3_qzl+q3f2ElUpBL4ONenXYh8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/I5Vq4OFrg9u67imBVj1_g9cJD4s=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/IACpsFBV2Dxl1iXAp1txKyDTHI8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/IQGKSqN2RkuBlzEJ2FA+cR728Jw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/IanbfESeV3IgXAypF9Bmisbh+h4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/IueeZY3FB5OXO03M8YaQeyFhP6c=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/J1T1eXXPT9XdBiTuYvYvq1it92E=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/JHzgMLYq9JffcHC3zj2xVc3Ky9o=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/L4tawmygc8tgQTdrZAuGM7v+M_c=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/LaIyXjpS_ekEcb7ENgN4yt_ziCM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/NSvcpiwcKEMAUBiyVlFmMjLvrkI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/NUrc2yqE+jHFlg0BDEPTF0KBotU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/O7GaXF_ap7ueDLi_AccADC9Invg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/OJdsv3ZYMzitd4n_1xFqI3Hwz1k=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/PBUu6_1D_Ca+UN+TUtCga+IavyA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/PXQucgVmFHiQK+o+axKpil6WvoM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/QFlC+_3wcI11zBrFTDu_wD9XwWU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/RCsWd6nQ0M5H_yWdM7tns_dJux4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/RLboPKrMdBnWhziLwbklR61UFRA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/T14b1MyTcIoGdZY1eJizPwonMFA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/TsxwCLhVUH8IsoA0rM+w6eH16EQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/WlBWWIbfLbIrJvf6T2JgHDl2S5Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/Xbp8i__NUA9jUOmeLkAcZ4b7j6w=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/Xr_aSusxhpSmuQi0EjLQaIeYVms=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/YzjGgvHzUlxLuhnxTFVND_5D9Bs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/Z+gtFVilRyFgTV2+T9K_Q6BZ0SI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/cnHH9i2wopDMPw12a7y4O_2y+68=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/eTOtj44K9oSlGB3EOZpRT9+PAQk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/fE5vRRp5k3tphshhY9hFi699nwk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/fFP12hSgNpRS2g29NZSwEDDQvPw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/faQvl1ETl4eGOUO7yT+79W51dJI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/fbwtj1Gq+PsQpxI4_kxcFqspYBU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/fyZUwixYUuIz4XpliRr1+DXDI5c=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/gZEKWskpoBCrMR3kAON08l5wgFU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/ggF1hlDeqg76rpm2lIiTOOvUBSk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/iFQCWk7W3j29UMC0L0cxK+BeGKw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/j0H9Xi5SnMDE3uZd8S9ccCi7FHY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/jfW7dyJ3I_LwXYKL62onaWV5kG0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/k7rLj4bYwLf4tOdRDCUqe+U_sFU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/kqJj30RPVrQLCQ8gIGFaK0Fx4P4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/l7460fK04GInugAvkytxY5y+0yo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/lwnaSWWLpNzxhPla9pXJp2GpeRY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/m6yvKGkVpuZlls2pW7EOQ_VZfYI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/mSYP4NIRKz0ramtxR3NaL0lEt60=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/nXIErZO_84VKhefncv3M1ekNU2M=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/oliFUvwlXghXNlw17J0Sv24liZk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/oyEV6agyhiAv6PHw9rgYTUlv8eA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/p7Fhes5F83utf3v1lMQjiET8KQQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/paOp262q+azdYl76RY0AtDkWcMQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/puRGNORQ8SDTD7FkpMyrSizd+Pc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/r7VSvowTe4uK6vbm3+ainQmnKU8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/roXdGZB055lTc2TlC9wUgAqrQ6Y=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/rsm5QcCpROk5NrHiUMsxFgQR4kI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/sGCIFjwF616Hf720DfX2gQbKc9o=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/thqI6Cj2y+nqpXNb4w4R3q7R1Xk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/uABJljfMpAmAvSLDHnFpeTgEyJE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeJavaRes/zip-cache/uQ0+9GF8+aFpOcIreHKFe7DGoL4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/+7jBPl0r6jxyOyNuDGAZK2S86ec=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/+BXLL5u49HI7tg7fShOE57qb4A4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/+LG+bynl8HJz10lmjKng08BuDRE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/1+5zDj9qW1oAujbAconBAV5LmXE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/2Zk5FEKz_5Ld42EAXJ8ro74+p5U=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/4bNtCGlqgUKXGoipJJBTuwjSiFM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/5+kA2_FwhHpID3Vgz9b6iQD01Rc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/5Edm5pgaDfHdONosiZtSxt6UEIw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/5gi8AY5anfcbVie5xGJees6LOSQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/6q3EOO9phJvZT_u_qndijvh7PEk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/74dsEVHTNBilL61tc_2NjITy9GA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/7Xtv9DRosCybGTtVaGfp8mo8fAo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/7jCgqMN2JfsJlYI64CtLZ4Li3Ac=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/7tJ5DSbGlzCZFr2Y3+L9sSCT800=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/8ZKJtXEFI8YuWTGQiCT2hV+hd7M=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/ALg2b4UWUu49g+c40E8kKorTMbU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/BgKHrf8c8i1tfHpa31CHKPErKNw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/Bz5tbjp8MkO0TcmKK5ZCL+cnylE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/D6Uqc3VQO24clFylTH+Tz6UYe24=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/DNEJd47rJ0UbxfYGunXlsaZG8uc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/Dkpg6j2xfN7Y8m8EqDuESWlBWgE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/DpBhCid_ER9eatpGnf3RrRhPr3s=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/FDSBMZmGQRT2ycIaTp9Bvp1QoyY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/Fu146r7k1xtEKTBBirLJf+LdDD8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/GGAVzDRO3+MuYV43n7DAXBJvz4c=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/Hl3_qzl+q3f2ElUpBL4ONenXYh8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/I5Vq4OFrg9u67imBVj1_g9cJD4s=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/IACpsFBV2Dxl1iXAp1txKyDTHI8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/IQGKSqN2RkuBlzEJ2FA+cR728Jw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/IanbfESeV3IgXAypF9Bmisbh+h4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/IueeZY3FB5OXO03M8YaQeyFhP6c=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/J1T1eXXPT9XdBiTuYvYvq1it92E=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/JHzgMLYq9JffcHC3zj2xVc3Ky9o=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/L4tawmygc8tgQTdrZAuGM7v+M_c=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/LaIyXjpS_ekEcb7ENgN4yt_ziCM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/NSvcpiwcKEMAUBiyVlFmMjLvrkI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/NUrc2yqE+jHFlg0BDEPTF0KBotU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/O7GaXF_ap7ueDLi_AccADC9Invg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/OJdsv3ZYMzitd4n_1xFqI3Hwz1k=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/PBUu6_1D_Ca+UN+TUtCga+IavyA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/PXQucgVmFHiQK+o+axKpil6WvoM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/QFlC+_3wcI11zBrFTDu_wD9XwWU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/RCsWd6nQ0M5H_yWdM7tns_dJux4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/RLboPKrMdBnWhziLwbklR61UFRA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/T14b1MyTcIoGdZY1eJizPwonMFA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/TsxwCLhVUH8IsoA0rM+w6eH16EQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/WlBWWIbfLbIrJvf6T2JgHDl2S5Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/Xbp8i__NUA9jUOmeLkAcZ4b7j6w=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/Xr_aSusxhpSmuQi0EjLQaIeYVms=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/YzjGgvHzUlxLuhnxTFVND_5D9Bs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/Z+gtFVilRyFgTV2+T9K_Q6BZ0SI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/cnHH9i2wopDMPw12a7y4O_2y+68=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/eTOtj44K9oSlGB3EOZpRT9+PAQk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/fE5vRRp5k3tphshhY9hFi699nwk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/fFP12hSgNpRS2g29NZSwEDDQvPw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/faQvl1ETl4eGOUO7yT+79W51dJI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/fbwtj1Gq+PsQpxI4_kxcFqspYBU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/fyZUwixYUuIz4XpliRr1+DXDI5c=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/gZEKWskpoBCrMR3kAON08l5wgFU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/ggF1hlDeqg76rpm2lIiTOOvUBSk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/iFQCWk7W3j29UMC0L0cxK+BeGKw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/j0H9Xi5SnMDE3uZd8S9ccCi7FHY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/jfW7dyJ3I_LwXYKL62onaWV5kG0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/k7rLj4bYwLf4tOdRDCUqe+U_sFU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/kqJj30RPVrQLCQ8gIGFaK0Fx4P4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/l7460fK04GInugAvkytxY5y+0yo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/lwnaSWWLpNzxhPla9pXJp2GpeRY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/m6yvKGkVpuZlls2pW7EOQ_VZfYI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/mSYP4NIRKz0ramtxR3NaL0lEt60=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/nXIErZO_84VKhefncv3M1ekNU2M=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/oliFUvwlXghXNlw17J0Sv24liZk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/oyEV6agyhiAv6PHw9rgYTUlv8eA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/p7Fhes5F83utf3v1lMQjiET8KQQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/paOp262q+azdYl76RY0AtDkWcMQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/puRGNORQ8SDTD7FkpMyrSizd+Pc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/r7VSvowTe4uK6vbm3+ainQmnKU8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/roXdGZB055lTc2TlC9wUgAqrQ6Y=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/rsm5QcCpROk5NrHiUMsxFgQR4kI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/sGCIFjwF616Hf720DfX2gQbKc9o=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/thqI6Cj2y+nqpXNb4w4R3q7R1Xk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/uABJljfMpAmAvSLDHnFpeTgEyJE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/uQ0+9GF8+aFpOcIreHKFe7DGoL4=" beforeDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/bloom_runner/BuildConfig.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/bloom_runner/MainActivity.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/bloom_runner/MainApplication$1.class" beforeDir="false" />
@@ -390,18 +765,46 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/bloom_runner/ReactNativeFlipper$2.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/bloom_runner/ReactNativeFlipper.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/facebook/react/PackageList.class" beforeDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/release/classes/com/bloom_runner/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/release/classes/com/bloom_runner/MainActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/release/classes/com/bloom_runner/MainApplication$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/release/classes/com/bloom_runner/MainApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/release/classes/com/facebook/react/PackageList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt" beforeDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out/fonts/EvilIcons.ttf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out/fonts/MaterialIcons.ttf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_assets/debug/out/fonts/EvilIcons.ttf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_assets/debug/out/fonts/MaterialIcons.ttf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_assets/debug/out/ula.kml" beforeDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_assets/release/mergeReleaseAssets/out/index.android.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_assets/release/mergeReleaseAssets/out/index.android.bundle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_assets/release/out/index.android.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_assets/release/out/index.android.bundle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_java_res/debug/out.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/output-metadata.json" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_assets/release/mergeReleaseAssets/out/fonts/EvilIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_assets/release/mergeReleaseAssets/out/fonts/MaterialIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_assets/release/mergeReleaseAssets/out/index.android.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_assets/release/out/fonts/EvilIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_assets/release/out/fonts/MaterialIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_assets/release/out/index.android.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_assets/release/out/ula.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_java_res/debug/out.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_java_res/release/out.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/release/output-metadata.json" beforeDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/arm64-v8a/libbetter.so" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/arm64-v8a/libc++_shared.so" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/arm64-v8a/libevent-2.1.so" beforeDir="false" />
@@ -666,6 +1069,257 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/x86_64/librrc_view.so" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/x86_64/libturbomodulejsijni.so" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/x86_64/libyoga.so" beforeDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libbetter.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libc++_shared.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libfabricjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libfb.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libfbjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libfolly_futures.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libfolly_json.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libglog.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libglog_init.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libhermes-executor-common-debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libhermes-executor-common-release.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libhermes-executor-debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libhermes-executor-release.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libhermes-inspector.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libimagepipeline.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libjsc.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libjscexecutor.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libjsijniprofiler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libjsinspector.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libmapbufferjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libnative-filters.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libnative-imagetranscoder.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_codegen_rncore.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_nativemodule_core.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_render_animations.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_render_attributedstring.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_render_componentregistry.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_render_core.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_render_debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_render_graphics.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_render_imagemanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_render_leakchecker.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_render_mapbuffer.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_render_mounting.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_render_runtimescheduler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_render_scheduler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_render_telemetry.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_render_templateprocessor.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_render_textlayoutmanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_render_uimanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreact_utils.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreactconfig.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreactnativeblob.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreactnativejni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreactnativeutilsjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreactperfloggerjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libreanimated.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/librrc_image.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/librrc_modal.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/librrc_picker.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/librrc_progressbar.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/librrc_root.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/librrc_scrollview.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/librrc_slider.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/librrc_switch.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/librrc_text.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/librrc_textinput.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/librrc_unimplementedview.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/librrc_view.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libturbomodulejsijni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libyoga.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libbetter.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libc++_shared.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libfabricjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libfb.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libfbjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libfolly_futures.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libfolly_json.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libglog.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libglog_init.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libhermes-executor-common-debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libhermes-executor-common-release.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libhermes-executor-debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libhermes-executor-release.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libhermes-inspector.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libimagepipeline.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libjsc.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libjscexecutor.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libjsijniprofiler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libjsinspector.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libmapbufferjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libnative-filters.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libnative-imagetranscoder.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_codegen_rncore.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_nativemodule_core.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_render_animations.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_render_attributedstring.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_render_componentregistry.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_render_core.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_render_debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_render_graphics.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_render_imagemanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_render_leakchecker.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_render_mapbuffer.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_render_mounting.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_render_runtimescheduler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_render_scheduler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_render_telemetry.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_render_templateprocessor.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_render_textlayoutmanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_render_uimanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreact_utils.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreactconfig.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreactnativeblob.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreactnativejni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreactnativeutilsjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreactperfloggerjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libreanimated.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/librrc_image.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/librrc_modal.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/librrc_picker.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/librrc_progressbar.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/librrc_root.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/librrc_scrollview.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/librrc_slider.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/librrc_switch.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/librrc_text.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/librrc_textinput.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/librrc_unimplementedview.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/librrc_view.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libturbomodulejsijni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libyoga.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libbetter.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libc++_shared.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libfabricjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libfb.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libfbjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libfolly_futures.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libfolly_json.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libglog.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libglog_init.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libhermes-executor-common-debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libhermes-executor-common-release.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libhermes-executor-debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libhermes-executor-release.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libhermes-inspector.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libimagepipeline.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libjsc.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libjscexecutor.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libjsijniprofiler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libjsinspector.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libmapbufferjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libnative-filters.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libnative-imagetranscoder.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_codegen_rncore.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_nativemodule_core.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_render_animations.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_render_attributedstring.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_render_componentregistry.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_render_core.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_render_debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_render_graphics.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_render_imagemanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_render_leakchecker.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_render_mapbuffer.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_render_mounting.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_render_runtimescheduler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_render_scheduler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_render_telemetry.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_render_templateprocessor.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_render_textlayoutmanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_render_uimanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreact_utils.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreactconfig.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreactnativeblob.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreactnativejni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreactnativeutilsjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreactperfloggerjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libreanimated.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/librrc_image.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/librrc_modal.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/librrc_picker.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/librrc_progressbar.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/librrc_root.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/librrc_scrollview.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/librrc_slider.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/librrc_switch.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/librrc_text.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/librrc_textinput.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/librrc_unimplementedview.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/librrc_view.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libturbomodulejsijni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86/libyoga.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libbetter.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libc++_shared.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libfabricjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libfb.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libfbjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libfolly_futures.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libfolly_json.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libglog.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libglog_init.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libhermes-executor-common-debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libhermes-executor-common-release.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libhermes-executor-debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libhermes-executor-release.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libhermes-inspector.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libimagepipeline.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libjsc.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libjscexecutor.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libjsijniprofiler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libjsinspector.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libmapbufferjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libnative-filters.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libnative-imagetranscoder.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_codegen_rncore.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_nativemodule_core.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_render_animations.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_render_attributedstring.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_render_componentregistry.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_render_core.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_render_debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_render_graphics.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_render_imagemanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_render_leakchecker.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_render_mapbuffer.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_render_mounting.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_render_runtimescheduler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_render_scheduler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_render_telemetry.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_render_templateprocessor.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_render_textlayoutmanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_render_uimanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreact_utils.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreactconfig.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreactnativeblob.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreactnativejni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreactnativeutilsjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreactperfloggerjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libreanimated.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/librrc_image.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/librrc_modal.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/librrc_picker.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/librrc_progressbar.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/librrc_root.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/librrc_scrollview.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/librrc_slider.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/librrc_switch.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/librrc_text.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/librrc_textinput.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/librrc_unimplementedview.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/librrc_view.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libturbomodulejsijni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/release/out/lib/x86_64/libyoga.so" beforeDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-af.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-am.json" beforeDir="false" />
@@ -780,11 +1434,142 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zu.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/navigation_json/debug/navigation.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/output-metadata.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/output-metadata.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/release.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-af.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-am.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-as.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-az.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-b+sr+Latn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-be.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-bg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-bn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-bs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-cs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-da.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-el.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-en-rAU.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-en-rCA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-en-rGB.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-en-rIN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-en-rXC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-es-rUS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-et.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-eu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-fa.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-fi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-fr-rCA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-fr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-gl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-gu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-h360dp-land-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-h480dp-land-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-h720dp-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-hdpi-v4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-hi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-hr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-hu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-hy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-in.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-is.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-it.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-iw.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ja.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ka.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-kk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-km.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-kn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ko.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ky.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-land.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-large-v4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ldltr-v21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-lo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-lt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-lv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-mk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ml.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-mn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-mr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ms.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-my.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-nb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ne.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-night-v8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-nl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-or.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-pa.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-pl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-port.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-pt-rBR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-pt-rPT.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-pt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-si.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-sk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-sl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-small-v4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-sq.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-sr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-sv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-sw.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-sw600dp-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-te.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-th.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-tl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-tr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-uk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-uz.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-v16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-v17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-v18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-v21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-v22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-v23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-v24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-v25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-v26.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-v28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-vi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-w360dp-port-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-w480dp-port-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-watch-v20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-watch-v21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-xlarge-v4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-zh-rCN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-zh-rHK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-zh-rTW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-zu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/release/out/single/release.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/metadata_application_id/release/application-id.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/metadata_library_dependencies_report/release/dependencies.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/navigation_json/debug/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/navigation_json/release/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/optimized_processed_res/release/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/optimized_processed_res/release/resources-release-optimize.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/release/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/release/out/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/release/out/resources-release.ap_" beforeDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/bloom_runner/BuildConfig.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/bloom_runner/MainActivity.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/bloom_runner/MainApplication$1.dex" beforeDir="false" />
@@ -794,6 +1579,14 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/bloom_runner/ReactNativeFlipper$2.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/bloom_runner/ReactNativeFlipper.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/facebook/react/PackageList.dex" beforeDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/release/out/com/bloom_runner/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/release/out/com/bloom_runner/MainActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/release/out/com/bloom_runner/MainApplication$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/release/out/com/bloom_runner/MainApplication.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/release/out/com/facebook/react/PackageList.dex" beforeDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat" beforeDir="false" />
@@ -916,9 +1709,163 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zh-rTW_values-zh-rTW.arsc.flat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zu_values-zu.arsc.flat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/sdk_dependency_data/release/sdkDependencyData.pb" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/sdk_dependency_data/release/sdkDependencyData.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/signing_config_versions/debug/signing-config-versions.json" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi_assets_booking.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi_assets_dashboard.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi_assets_header.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi_assets_logo.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi_assets_logout.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi_assets_user.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_drawer_node_modules_reactnavigation_elements_src_assets_backicon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-af_values-af.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-am_values-am.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-ar_values-ar.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-as_values-as.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-az_values-az.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-b+sr+Latn_values-b+sr+Latn.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-be_values-be.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-bg_values-bg.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-bn_values-bn.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-bs_values-bs.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-ca_values-ca.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-cs_values-cs.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-da_values-da.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-de_values-de.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-el_values-el.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-en-rAU_values-en-rAU.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-en-rCA_values-en-rCA.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-en-rGB_values-en-rGB.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-en-rIN_values-en-rIN.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-en-rXC_values-en-rXC.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-es-rUS_values-es-rUS.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-es_values-es.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-et_values-et.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-eu_values-eu.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-fa_values-fa.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-fi_values-fi.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-fr-rCA_values-fr-rCA.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-fr_values-fr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-gl_values-gl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-gu_values-gu.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-h360dp-land-v13_values-h360dp-land-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-h480dp-land-v13_values-h480dp-land-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-h720dp-v13_values-h720dp-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-hdpi-v4_values-hdpi-v4.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-hi_values-hi.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-hr_values-hr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-hu_values-hu.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-hy_values-hy.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-in_values-in.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-is_values-is.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-it_values-it.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-iw_values-iw.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-ja_values-ja.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-ka_values-ka.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-kk_values-kk.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-km_values-km.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-kn_values-kn.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-ko_values-ko.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-ky_values-ky.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-land_values-land.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-large-v4_values-large-v4.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-ldltr-v21_values-ldltr-v21.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-lo_values-lo.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-lt_values-lt.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-lv_values-lv.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-mk_values-mk.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-ml_values-ml.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-mn_values-mn.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-mr_values-mr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-ms_values-ms.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-my_values-my.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-nb_values-nb.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-ne_values-ne.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-night-v8_values-night-v8.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-nl_values-nl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-or_values-or.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-pa_values-pa.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-pl_values-pl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-port_values-port.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-pt-rBR_values-pt-rBR.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-pt-rPT_values-pt-rPT.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-pt_values-pt.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-ro_values-ro.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-ru_values-ru.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-si_values-si.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-sk_values-sk.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-sl_values-sl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-small-v4_values-small-v4.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-sq_values-sq.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-sr_values-sr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-sv_values-sv.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-sw600dp-v13_values-sw600dp-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-sw_values-sw.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-ta_values-ta.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-te_values-te.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-th_values-th.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-tl_values-tl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-tr_values-tr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-uk_values-uk.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-ur_values-ur.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-uz_values-uz.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-v16_values-v16.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-v17_values-v17.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-v18_values-v18.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-v21_values-v21.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-v22_values-v22.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-v23_values-v23.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-v24_values-v24.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-v25_values-v25.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-v26_values-v26.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-v28_values-v28.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-vi_values-vi.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-w360dp-port-v13_values-w360dp-port-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-w480dp-port-v13_values-w480dp-port-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-watch-v20_values-watch-v20.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-watch-v21_values-watch-v21.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-xlarge-v4_values-xlarge-v4.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-zh-rCN_values-zh-rCN.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-zh-rHK_values-zh-rHK.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-zh-rTW_values-zh-rTW.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-zu_values-zu.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values_values.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/release/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/sdk_dependency_data/release/sdkDependencyData.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/signing_config_versions/debug/signing-config-versions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/signing_config_versions/release/signing-config-versions.json" beforeDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/arm64-v8a/libbetter.so" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/arm64-v8a/libc++_shared.so" beforeDir="false" />
@@ -1184,6 +2131,7 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/x86_64/librrc_view.so" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/x86_64/libturbomodulejsijni.so" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/x86_64/libyoga.so" beforeDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/output-metadata.json" beforeDir="false" />
@@ -1191,13 +2139,276 @@
       <change beforePath="$PROJECT_DIR$/app/build/reports/lint-results-release-fatal.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/lint-results-release-fatal.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/release/contico 22Dec.apk" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libbetter.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libc++_shared.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libfabricjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libfb.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libfbjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libfolly_futures.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libfolly_json.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libglog.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libglog_init.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libhermes-executor-common-debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libhermes-executor-common-release.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libhermes-executor-debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libhermes-executor-release.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libhermes-inspector.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libimagepipeline.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libjsc.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libjscexecutor.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libjsijniprofiler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libjsinspector.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libmapbufferjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libnative-filters.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libnative-imagetranscoder.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_codegen_rncore.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_nativemodule_core.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_render_animations.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_render_attributedstring.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_render_componentregistry.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_render_core.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_render_debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_render_graphics.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_render_imagemanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_render_leakchecker.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_render_mapbuffer.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_render_mounting.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_render_runtimescheduler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_render_scheduler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_render_telemetry.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_render_templateprocessor.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_render_textlayoutmanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_render_uimanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreact_utils.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreactconfig.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreactnativeblob.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreactnativejni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreactnativeutilsjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreactperfloggerjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libreanimated.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/librrc_image.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/librrc_modal.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/librrc_picker.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/librrc_progressbar.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/librrc_root.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/librrc_scrollview.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/librrc_slider.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/librrc_switch.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/librrc_text.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/librrc_textinput.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/librrc_unimplementedview.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/librrc_view.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libturbomodulejsijni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libyoga.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libbetter.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libc++_shared.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libfabricjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libfb.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libfbjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libfolly_futures.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libfolly_json.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libglog.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libglog_init.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libhermes-executor-common-debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libhermes-executor-common-release.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libhermes-executor-debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libhermes-executor-release.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libhermes-inspector.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libimagepipeline.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libjsc.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libjscexecutor.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libjsijniprofiler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libjsinspector.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libmapbufferjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libnative-filters.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libnative-imagetranscoder.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_codegen_rncore.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_nativemodule_core.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_render_animations.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_render_attributedstring.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_render_componentregistry.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_render_core.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_render_debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_render_graphics.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_render_imagemanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_render_leakchecker.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_render_mapbuffer.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_render_mounting.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_render_runtimescheduler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_render_scheduler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_render_telemetry.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_render_templateprocessor.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_render_textlayoutmanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_render_uimanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreact_utils.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreactconfig.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreactnativeblob.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreactnativejni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreactnativeutilsjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreactperfloggerjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libreanimated.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/librrc_image.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/librrc_modal.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/librrc_picker.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/librrc_progressbar.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/librrc_root.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/librrc_scrollview.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/librrc_slider.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/librrc_switch.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/librrc_text.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/librrc_textinput.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/librrc_unimplementedview.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/librrc_view.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libturbomodulejsijni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libyoga.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libbetter.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libc++_shared.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libfabricjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libfb.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libfbjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libfolly_futures.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libfolly_json.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libglog.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libglog_init.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libhermes-executor-common-debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libhermes-executor-common-release.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libhermes-executor-debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libhermes-executor-release.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libhermes-inspector.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libimagepipeline.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libjsc.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libjscexecutor.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libjsijniprofiler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libjsinspector.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libmapbufferjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libnative-filters.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libnative-imagetranscoder.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_codegen_rncore.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_nativemodule_core.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_render_animations.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_render_attributedstring.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_render_componentregistry.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_render_core.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_render_debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_render_graphics.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_render_imagemanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_render_leakchecker.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_render_mapbuffer.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_render_mounting.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_render_runtimescheduler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_render_scheduler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_render_telemetry.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_render_templateprocessor.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_render_textlayoutmanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_render_uimanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreact_utils.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreactconfig.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreactnativeblob.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreactnativejni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreactnativeutilsjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreactperfloggerjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libreanimated.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/librrc_image.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/librrc_modal.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/librrc_picker.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/librrc_progressbar.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/librrc_root.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/librrc_scrollview.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/librrc_slider.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/librrc_switch.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/librrc_text.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/librrc_textinput.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/librrc_unimplementedview.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/librrc_view.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libturbomodulejsijni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86/libyoga.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libbetter.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libc++_shared.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libfabricjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libfb.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libfbjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libfolly_futures.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libfolly_json.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libglog.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libglog_init.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libhermes-executor-common-debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libhermes-executor-common-release.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libhermes-executor-debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libhermes-executor-release.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libhermes-inspector.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libimagepipeline.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libjsc.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libjscexecutor.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libjsijniprofiler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libjsinspector.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libmapbufferjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libnative-filters.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libnative-imagetranscoder.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_codegen_rncore.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_nativemodule_core.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_render_animations.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_render_attributedstring.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_render_componentregistry.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_render_core.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_render_debug.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_render_graphics.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_render_imagemanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_render_leakchecker.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_render_mapbuffer.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_render_mounting.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_render_runtimescheduler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_render_scheduler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_render_telemetry.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_render_templateprocessor.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_render_textlayoutmanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_render_uimanager.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreact_utils.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreactconfig.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreactnativeblob.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreactnativejni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreactnativeutilsjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreactperfloggerjni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libreanimated.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/librrc_image.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/librrc_modal.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/librrc_picker.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/librrc_progressbar.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/librrc_root.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/librrc_scrollview.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/librrc_slider.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/librrc_switch.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/librrc_text.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/librrc_textinput.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/librrc_unimplementedview.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/librrc_view.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libturbomodulejsijni.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libyoga.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/sdk-dependencies/release/sdkDependencies.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/lint-results-release-fatal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/lint-results-release-fatal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/compileReleaseJavaWithJavac/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/contico 22Dec.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/output-metadata.json" beforeDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@RZ8M30ATCWR]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/Applications/Android Emulator.app/Contents/MacOS/aosp-master-arm64-v8a]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />

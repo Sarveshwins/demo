@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 #Sun Dec 26 11:51:00 IST 2021
+=======
+#Fri Dec 24 17:20:27 IST 2021
+>>>>>>> Stashed changes
 base.1=/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
 path.1=classes2.dex
 base.0=/Users/dinesh/Documents/GitHub/demo/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
