@@ -1,9 +1,0 @@
-com/bloom_runner/MainActivity.java
- com.bloom_runner.MainActivity
-com/bloom_runner/MainApplication.java
- com.bloom_runner.MainApplication
- com.bloom_runner.MainApplication$1
-com/bloom_runner/BuildConfig.java
- com.bloom_runner.BuildConfig
-com/facebook/react/PackageList.java
- com.facebook.react.PackageList

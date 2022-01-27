@@ -116,25 +116,30 @@ const Profilescreen = ({
             flexDirection: "row",
             marginTop: 3,
             borderRadius: 2,
-            // backgroundColor: 'blue',
             height: 60,
           }}
         >
           <TextInput
             allowFontScaling={false}
-            style={{ flex: 1, fontSize: 12, fontWeight: "300" }}
-            placeholder="Search "
+            style={{
+              flex: 1,
+              fontSize: 15,
+              fontWeight: "300",
+            }}
+            placeholder="Search by Booking ID "
             onChangeText={(text) => {
               setSearch(text);
             }}
             placeholderTextColor={"black"}
+            color={"black"}
             value={search}
           />
           <View
             style={{
               width: "20%",
               height: 50,
-              backgroundColor: "black",
+              marginTop: 5,
+              backgroundColor: "#a8becc",
               borderRadius: 15,
               alignItems: "center",
               justifyContent: "center",
@@ -158,8 +163,7 @@ const Profilescreen = ({
               style={{
                 flex: 1,
                 height: 44,
-                // backgroundColor: 'red',
-                borderColor: "black",
+                borderColor: "#606060",
                 borderWidth: 0.5,
                 borderTopLeftRadius: index == 0 ? 10 / 2 : 0,
                 borderBottomLeftRadius: index == 0 ? 10 / 2 : 0,
@@ -173,8 +177,7 @@ const Profilescreen = ({
                   justifyContent: "center",
                   alignItems: "center",
                   borderRadius: 10 / 2,
-                  backgroundColor: selectedIndex === index ? "black" : null,
-
+                  backgroundColor: selectedIndex === index ? "#7b94a8" : null,
                   borderTopLeftRadius: index == 0 ? 10 / 2 : 0,
                   borderBottomLeftRadius: index == 0 ? 10 / 2 : 0,
                   borderTopRightRadius: index === 2 ? 10 / 2 : 0,
@@ -192,7 +195,7 @@ const Profilescreen = ({
                   <Text
                     allowFontScaling={false}
                     style={{
-                      color: selectedIndex === index ? "white" : "black",
+                      color: selectedIndex === index ? "#395b79" : "#7b94a8",
                       fontSize: 17,
                       fontWeight: "500",
                       fontSize: 12,
@@ -300,20 +303,21 @@ const styles = StyleSheet.create({
   secondView: {
     flex: 2.5,
     justifyContent: "space-between",
-    backgroundColor: "lightgrey",
+    backgroundColor: "#7b94a8",
   },
   textstyle: {
     fontSize: 18,
     margin: 3,
-    color: "black",
+    color: "white",
   },
   payNow: {
     textAlign: "center",
     fontWeight: "bold",
     fontSize: 20,
+    color: "white",
   },
   butonView: {
-    backgroundColor: "skyblue",
+    backgroundColor: "#395b79",
     justifyContent: "center",
     alignSelf: "center",
     alignItems: "center",
@@ -325,6 +329,6 @@ const styles = StyleSheet.create({
     paddingLeft: 20,
     width: "100%",
     height: 60,
-    backgroundColor: "lightblue",
+    backgroundColor: "#395b79",
   },
 });

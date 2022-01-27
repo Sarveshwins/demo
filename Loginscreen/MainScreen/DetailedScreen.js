@@ -18,9 +18,11 @@ const DetailedScreen = ({
     });
   }, []);
   console.log("mmmmmm", bookingDetailsData);
-  return (
-    <View style={{ flex: 1 }}>
-      <ScrollView style={styles.mainContainer}>
+
+  const ListHeader = () => {
+    //View to set in Header
+    return (
+      <View>
         <View>
           <Text style={{ fontWeight: "bold", fontSize: 20, marginBottom: 10 }}>
             Details
@@ -28,30 +30,59 @@ const DetailedScreen = ({
         </View>
 
         <View style={styles.secondaryView}>
-          <Text style={styles.textStyle}>BOOKING ID1 : {item.BOOKING_ID}</Text>
-          <Text style={styles.textStyle}>
+          <Text style={styles.textStyleone}>
+            BOOKING ID : {item.BOOKING_ID}
+          </Text>
+          <Text style={styles.textStyleone}>
             PLACE OF RECEIPT : {item.PLACE_OF_RECEIPT}
           </Text>
-          <Text style={styles.textStyle}>
+          <Text style={styles.textStyleone}>
             PLACE OF DELIVERY : {item.PLACE_OF_DELIVERY}
           </Text>
-          <Text style={styles.textStyle}>PICKUP DATE : {item.PICKUP_DATE}</Text>
-          <Text style={styles.textStyle}>GOODS : {item.GOODS_TYPE}</Text>
+          <Text style={styles.textStyleone}>
+            PICKUP DATE : {item.PICKUP_DATE}
+          </Text>
+          <Text style={styles.textStyleone}>GOODS : {item.GOODS_TYPE}</Text>
         </View>
+        <Text
+          style={{
+            fontWeight: "bold",
+            fontSize: 20,
+            marginBottom: 10,
+            marginTop: 10,
+          }}
+        >
+          Mesaages
+        </Text>
+      </View>
+    );
+  };
+  return (
+    <View style={{ flex: 1 }}>
+      <View style={styles.mainContainer}>
         {/* <View style={{ width: "100%", height: "100%" }}> */}
         <View style={{ flex: 1 }}>
           <FlatList
             data={bookingDetailsData?.Mesaages}
+            ListHeaderComponent={ListHeader}
             renderItem={({ item }) => {
               console.log(item, "llll");
               return (
                 <View style={[styles.secondaryView, { marginTop: 20 }]}>
-                  <Text style={styles.textStyle}>
-                    POSTED BY : {item.POSTED_BY}
-                  </Text>
-                  <Text style={styles.textStyle}>
-                    POSTED ON : {item.POSTED_ON}
-                  </Text>
+                  <View
+                    style={{
+                      flexDirection: "row",
+                      justifyContent: "space-between",
+                    }}
+                  >
+                    <Text style={styles.textStyle}>
+                      POSTED BY : {item.POSTED_BY}
+                    </Text>
+                    <Text style={styles.textStyle}>
+                      POSTED ON : {item.POSTED_ON}
+                    </Text>
+                  </View>
+
                   <Text style={styles.textStyle}>STATUS : {item.STATUS}</Text>
                   <Text style={styles.textStyle}>MESSAGE : {item.MESSAGE}</Text>
                 </View>
@@ -60,7 +91,7 @@ const DetailedScreen = ({
           />
         </View>
         {/* </View> */}
-      </ScrollView>
+      </View>
     </View>
   );
 };
@@ -84,18 +115,24 @@ const styles = StyleSheet.create({
     // justifyContent: "center",
     // alignItems: "center",
     flex: 1,
-
-    padding: 10,
+    paddingRight: 10,
+    paddingLeft: 10,
   },
   secondaryView: {
-    backgroundColor: "lightgrey",
+    backgroundColor: "#7b94a8",
     width: "100%",
-    height: 250,
+    height: "auto",
     borderRadius: 10,
     padding: 10,
     justifyContent: "center",
   },
   textStyle: {
     fontSize: 18,
+    width: "50%",
+    color: "white",
+  },
+  textStyleone: {
+    fontSize: 18,
+    color: "white",
   },
 });

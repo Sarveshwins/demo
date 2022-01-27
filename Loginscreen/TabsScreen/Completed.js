@@ -37,7 +37,7 @@ const Completed = ({ filteredDataSource, navigation, CbookingFetching }) => {
                     }}
                   >
                     <Text style={styles.textstyle}>
-                      BOOKING ID1 : {item.BOOKING_ID}
+                      BOOKING ID : {item.BOOKING_ID}
                     </Text>
                     <Text style={styles.textstyle}>
                       PLACE OF RECEIPT : {item.PLACE_OF_RECEIPT}
@@ -98,22 +98,22 @@ const styles = StyleSheet.create({
   secondView: {
     flex: 2.5,
     justifyContent: "space-between",
-    // alignItems: 'center',
-    backgroundColor: "lightgrey",
+    backgroundColor: "#7b94a8",
   },
   textstyle: {
     //fontWeight: 'bold',
     fontSize: 18,
     margin: 3,
-    color: "black",
+    color: "white",
   },
   payNow: {
     textAlign: "center",
     fontWeight: "bold",
     fontSize: 20,
+    color: "white",
   },
   butonView: {
-    backgroundColor: "skyblue",
+    backgroundColor: "#395b79",
     justifyContent: "center",
     alignSelf: "center",
     alignItems: "center",
@@ -127,6 +127,6 @@ const styles = StyleSheet.create({
     width: "100%",
     height: 60,
 
-    backgroundColor: "lightblue",
+    backgroundColor: "#395b79",
   },
 });

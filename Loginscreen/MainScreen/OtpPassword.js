@@ -1,13 +1,19 @@
 import React, { useState, useEffect } from "react";
-import { StyleSheet, Text, View, TouchableOpacity } from "react-native";
+import { StyleSheet, Text, View, TouchableOpacity, Alert } from "react-native";
 // import OtpInputs from "react-native-otp-inputs";
 import { connect } from "react-redux";
 import { bindActionCreators } from "redux";
 import { attemptOtpActions } from "../actions/OtpScreen";
 import OTPInputView from "@twotalltotems/react-native-otp-input";
 import { AppStorage } from "../AsynStorage/asyncStorage";
+import { text } from "express";
 
-const OtpPassword = ({ attemptOtpScreen, OtpData, attemptUserRegister }) => {
+const OtpPassword = ({
+  attemptOtpScreen,
+  OtpData,
+  attemptUserRegister,
+  navigation,
+}) => {
   const [otpPassword, setOtpPassword] = useState("");
   const [ClientId, setClientId] = useState();
 
@@ -24,10 +30,12 @@ const OtpPassword = ({ attemptOtpScreen, OtpData, attemptUserRegister }) => {
 
       extraData: async (loginRespo) => {
         console.log("loginResposss", loginRespo);
-        //   AppStorage.saveKey(
-        //     key.SAVE_CLIENT_ID,
-        //     JSON.stringify(loginRespo?.user_id),
-        //   );
+
+        if (loginRespo?.status) {
+          Alert.alert(loginRespo?.message, "", [
+            { text: "ok", onPress: () => navigation.navigate("home") },
+          ]);
+        }
       },
     });
   };
@@ -57,7 +65,7 @@ const OtpPassword = ({ attemptOtpScreen, OtpData, attemptUserRegister }) => {
           justifyContent: "center",
         }}
       >
-        <Text style={{ fontSize: 20, color: "white" }}>Register</Text>
+        <Text style={{ fontSize: 20, color: "white" }}>Enter OTP & Verify</Text>
       </TouchableOpacity>
     </View>
   );
@@ -79,7 +87,7 @@ const styles = StyleSheet.create({
   },
 
   borderStyleHighLighted: {
-    borderColor: "#03DAC6",
+    borderColor: "black",
   },
 
   underlineStyleBase: {
@@ -87,6 +95,7 @@ const styles = StyleSheet.create({
     height: 45,
     borderWidth: 3,
     borderColor: "black",
+    color: "black",
   },
 
   underlineStyleHighLighted: {

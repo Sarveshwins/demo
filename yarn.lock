@@ -5958,7 +5958,7 @@ react-native-reanimated@^2.2.3:
 
 react-native-rename@^2.9.0:
   version "2.9.0"
-  resolved "https://registry.npmjs.org/react-native-rename/-/react-native-rename-2.9.0.tgz"
+  resolved "https://registry.yarnpkg.com/react-native-rename/-/react-native-rename-2.9.0.tgz#3e8c20f048204e9ac77ff098aeb976cce9e45244"
   integrity sha512-11ak35lhjSk8lWMzJWcFQRvRu/PD7/S+CSwg1NKXo8MvxKh4PXoJCJO5x9kwVNrzFbJng30qssSixFaU2Kwn0A==
   dependencies:
     cheerio "^0.22.0"

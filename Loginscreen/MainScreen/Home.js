@@ -27,8 +27,8 @@ const Home = ({ navigation, attemptLogin, loginFetching }) => {
   const login = async (getData) => {
     console.log("PAYLOAD", getData.username, getData.password);
     attemptLogin({
-      email: "pramod@softoasistech.com", //getData.username,
-      password: "ssp@2020", //getData.password,
+      email: "pramod@softoasistech.com", //getData.username, //
+      password: "ssp@2020", //getData.password, // ,
       extraData: async (loginRespo) => {
         console.log("loginRespo", loginRespo?.user_id);
         AppStorage.saveKey(
@@ -154,7 +154,7 @@ const Home = ({ navigation, attemptLogin, loginFetching }) => {
           </View>
 
           <TouchableOpacity onPress={() => onPress(data)} style={styles.flow}>
-            <Text style={{ fontSize: 20, color: "white" }}>login</Text>
+            <Text style={{ fontSize: 20, color: "white" }}>Login</Text>
           </TouchableOpacity>
 
           <TouchableOpacity
